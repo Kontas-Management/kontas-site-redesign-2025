@@ -1,0 +1,32 @@
+# Serena Local Files
+.serena/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if using build tools)
+node_modules/
+npm-debug.log*
+
+# Build output (if applicable)
+dist/
+build/
+.cache/
+
+# Environment files
+.env
+.env.local
+.env.*.local
