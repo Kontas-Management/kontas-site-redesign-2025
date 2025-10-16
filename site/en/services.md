@@ -1,5 +1,6 @@
 ---
 title: "Accounting, Tax, Payroll & Business Advisory Services | Kontas"
+description: "Discover the full range of Kontas services: digital accounting, tax advisory, payroll and HR, business consulting, and company formation in Romania."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,49 +11,32 @@ title: "Accounting, Tax, Payroll & Business Advisory Services | Kontas"
 
 # Complete Financial Solutions for Your Business Success
 
-Kontas AI Solutions SRL offers comprehensive accounting services, tailored to market needs, ensuring a high level of quality. We provide a wide range of accounting services, with complete or partial and flexible options that adapt excellently to all needs and professional profiles, offering the possibility to choose the tariff plan corresponding to current needs or adaptable to your company's development prospects.
+From accounting and tax to business strategy and administrative support, we are your single partner for efficient management and sustainable growth.
 
-## Core Services
+## Explore Our Service Categories
 
-### Digital Accounting & Reporting
-Comprehensive, digitized services, financial reporting, expert opinions.
-[Learn more](/en/services/accounting-reporting/)
+**Accounting & Reporting**
+We provide a solid financial foundation for your business through digital accounting services, accurate reporting, and expertise in line with current standards.
+[See details](/en/services/accounting-reporting/)
 
-### Payroll & HR Administration
-Payroll calculation, personnel file administration, labor law consulting.
-[Learn more](/en/services/payroll-human-resources/)
+**Payroll & Human Resources**
+We fully manage payroll and personnel administration processes, freeing you from complex administrative tasks and ensuring legal compliance.
+[See details](/en/services/payroll-human-resources/)
 
-### Tax & Financial Advisory
-Tax optimization, planning, tax analysis, transfer pricing.
-[Learn more](/en/services/tax-advisory/)
+**Tax & Financial Advisory**
+We help you navigate the complexity of the Romanian tax system. We offer tax optimization and financial planning solutions for informed decisions.
+[See details](/en/services/tax-advisory/)
 
-## Extended Business Services
+**Business Advisory**
+We act as a strategic partner, offering consulting for business development, process optimization, and achieving long-term goals.
+[See details](/en/services/business-advisory/)
 
-### Business Advisory
-Strategic planning, process optimization, financial management.
-[Learn more](/en/services/business-advisory/)
+**Company Formation & Legal Support**
+We simplify the process of launching a business in Romania, providing full assistance for company incorporation and specialized legal support.
+[See details](/en/services/company-formation/)
 
-### Mergers & Acquisitions
-Assistance in M&A processes, company valuation.
-[Learn more](/en/services/business-advisory/)
+## Not sure what you need?
 
-### Audit & Due Diligence
-Financial audit, tax due diligence, risk assessment.
-[Learn more](/en/services/business-advisory/)
+Every business is unique. Contact us for a free consultation, and together we will build a customized service package perfectly tailored to your needs and budget.
 
-### Financing Applications
-Assistance in obtaining financing.
-[Learn more](/en/services/business-advisory/)
-
-### Transfer Pricing Documentation
-[Learn more](/en/services/business-advisory/)
-
-## Specialized Legal & Administrative Services
-
-### Company Formation & Support
-Legal assistance for setting up SRL, PFA, registered office.
-[Learn more](/en/services/company-formation/)
-
-### Services for Foreign Citizens
-Assistance in obtaining residence/work visas, immigration consulting.
-[Learn more](/en/services/company-formation/)
+[Request a Custom Quote](/en/contact/)

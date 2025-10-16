@@ -11,87 +11,53 @@ description: "Comprehensive financial, accounting, tax, and business solutions f
 
 # High-Class Financial-Accounting Efficiency for Your Business to Thrive
 
-## For Long-Term Financial Health
+## Your Strategic Partner for Stability and Growth in Romania
 
-Kontas is an accounting firm in Bucharest, Romania, with over 20 years of experience, offering comprehensive financial and accounting services. We focus on continuous improvement of our clients' operations, ensuring measurable results and sustainable performance.
+**International Business Support**
+We offer specialized advisory for foreign investors, covering all legal and financial aspects of the Romanian market.
 
-Our team consists of certified professionals with solid expertise who work in close partnership with clients to ensure consistent performance in a dynamic business environment.
+**Integrated Expertise**
+You benefit from a complete team of experts – accountants, tax advisors, and business consultants – working together for your success.
 
-We are financial and accounting experts dedicated to successful businesses. We partner with companies seeking sustainable growth, providing professional support continuously updated with current legislation, ensuring your business is always protected and optimized.
+**Technology and Efficiency**
+We use modern digital platforms to automate processes, reduce errors, and give you quick access to your financial data.
 
-### Innovation and Digitalization
-We implement high-performance software solutions for accounting process automation, providing not only the right tools but also complete training for optimal use to benefit your business.
+**Strategic Vision**
+We go beyond simple reporting. We offer proactive analysis and consulting to help you make the best business decisions.
 
-### Confidentiality
-Your data protection is our priority. All information and documents are managed according to GDPR standards with complete professional discretion. Confidentiality is an essential part of our professional code of conduct.
+## Why Leading Companies Choose Kontas
 
-### Trust
-Your business benefits from the expertise of a team with proven experience. We treat every client with the same rigor and professionalism, regardless of the collaboration's size.
+**20+ Years of Proven Track Record** (since 1999)
+Kontas Management brings together a team with extensive experience in financial-accounting services. Our foundation of excellence continues under the new brand, rooted in successful collaboration under the Weex Global umbrella.
 
-### Integrity
-We maintain the highest ethical standards in all aspects of our activity. Your success is important, but never at the expense of professional integrity and compliance with legislation.
+**Professional Accreditation & Recognition**
+Certified members of **CECCAR** (Body of Expert Accountants and Licensed Accountants of Romania) and **CCF** (Chamber of Tax Consultants) – guaranteeing maximum professional standards.
 
-## Our Services
+**Trusted by Major Financial Institutions**
+Designated as **Stup Partners** by Banca Transilvania – recognition of our service quality and reliability.
 
-### Digital Accounting & Reporting
-Comprehensive, digitized services, financial reporting, expert opinions.
-[Learn more](/en/services/accounting-reporting/)
+**Industry Thought Leaders**
+Founders and organizers of **Tax Camp** – a unique annual gathering in Romania bringing together thousands of finance professionals, economists, and tax experts for continuous education and professional development.
 
-### Payroll & HR Administration
-Payroll calculation, personnel file administration, labor law consulting.
-[Learn more](/en/services/payroll-human-resources/)
+## Complete Solutions for Every Stage of Your Business
 
-### Tax & Financial Advisory
-Tax optimization, planning, tax analysis, transfer pricing.
-[Learn more](/en/services/tax-advisory/)
+**Accounting & Reporting**
+From accurate bookkeeping to complex financial statements, we ensure the compliance and clarity you need.
+[Service Details](/en/services/accounting-reporting/)
 
-## Extended Business Services
+**Tax & Financial Advisory**
+We optimize your company's tax burden and assist you in making strategic financial decisions.
+[Service Details](/en/services/tax-advisory/)
 
-### Business Advisory
-Strategic planning, process optimization, financial management.
-[Learn more](/en/services/business-advisory/)
+**Payroll & HR Administration**
+We efficiently manage personnel administration and payroll processes, ensuring compliance with labor legislation.
+[Service Details](/en/services/payroll-human-resources/)
 
-### Mergers & Acquisitions
-Assistance in M&A processes, company valuation.
-[Learn more](/en/services/business-advisory/)
+## Concrete Results for Our Clients
 
-### Audit & Due Diligence
-Financial audit, tax due diligence, risk assessment.
-[Learn more](/en/services/business-advisory/)
+*Detailed case studies will be added based on specific information from the Kontas team. Each case will include: Industry, Challenge, Kontas Solution, Measurable Result.*
 
-### Financing Applications
-Assistance in obtaining financing.
-[Learn more](/en/services/business-advisory/)
-
-### Transfer Pricing Documentation
-[Learn more](/en/services/business-advisory/)
-
-## Specialized Legal & Administrative Services
-
-### Company Formation & Support
-Legal assistance for setting up SRL, PFA, registered office.
-[Learn more](/en/services/company-formation/)
-
-### Services for Foreign Citizens
-Assistance in obtaining residence/work visas, immigration consulting.
-[Learn more](/en/services/company-formation/)
-
-## Advantages of Partnering with Us
-
-You have the opportunity to stay updated with the latest legislative changes in the field, in line with the latest European laws and trends.
-
-The company's activity is supported by software that incorporates the latest applications and operating systems, with modules for financial-accounting, fixed assets, management, sales, management reports, as well as payroll and personnel management applications.
-
-#### Coverage
-Benefit from coverage through contractual liability and representation before financial control bodies.
-
-#### Advantageous Rates
-The rates for our services can be significantly lower than maintaining your own accounting department.
-
-#### Unlimited
-Benefit from accounting and tax consulting services for unlimited periods, without encountering the complications of an individual employment contract.
-
-## What Our Clients Say
+## What Our Partners Say
 
 > "I have been working with the team led by Horațiu Hagiu for over 20 years, since 1999. All the businesses I have developed are successful, which speaks to the quality of the accounting and financial consulting services received. For tax consulting and business analysis, Kontas remains my trusted choice."
 > **Dan Cernea** – CEO, Ecco Group Development SRL
@@ -104,22 +70,8 @@ Benefit from accounting and tax consulting services for unlimited periods, witho
 
 *Testimonials reflect long-term collaborations with the Kontas team and its predecessor.*
 
-## Recommendations from Our Financial-Accounting Experts
+## Ready to take your business to the next level?
 
-*   **Respect Reporting Deadlines** – Delaying financial reports can generate significant penalties and financial losses. Rigorous planning of tax obligations is essential.
-*   **Base Decisions on Real Data** – Rigorous financial planning and business decisions based on concrete analyses lead to predictable and sustainable results.
-*   **Prioritize Document Accuracy** – Complete and accurate financial-accounting documents are the foundation of operations without issues with tax authorities.
-*   **Adopt Digitalization** – Automated accounting systems dramatically reduce human errors and processing time. Digitalization is not a luxury but a necessity for maximum efficiency.
+Let's discuss the specific needs of your company. Schedule a free consultation with one of our experts.
 
-## Partners
-
-Stup Partner - Banca Transilvania
-
-## Contact
-
-Find us here: Str. Raristei Nr. 7, Sector 2, Bucharest
-Email: office@kontas.ro
-Phone: 004 0724 205 501
-
-CECCAR
-Our company is a certified member of the Body of Expert Accountants and Licensed Accountants of Romania (CECCAR) and the Chamber of Tax Consultants (CCF).
+[Schedule a Consultation](/en/contact/)

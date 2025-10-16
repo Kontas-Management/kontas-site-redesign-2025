@@ -1,5 +1,6 @@
 ---
 title: "Despre Kontas - Echipa de Experți în Contabilitate și Consultanță"
+description: "Faceți cunoștință cu echipa Kontas. Descoperiți valorile, istoria și experiența care ne recomandă ca partenerul ideal pentru succesul afacerii dumneavoastră."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -8,33 +9,63 @@ title: "Despre Kontas - Echipa de Experți în Contabilitate și Consultanță"
 <link rel="alternate" href="https://kontas.ro/despre-noi/" hreflang="x-default" />
 -->
 
-# Echipa Kontas: Experiență, Inovație și Integritate în Serviciile Financiare
+# Parteneri în creșterea afacerii tale, nu doar furnizori de servicii
 
-Kontas este o firmă de contabilitate din București care oferă servicii complete de contabilitate și consultanță financiară, concentrându-se pe îmbunătățirea continuă a performanței clienților noștri.
+Suntem o echipă de experți dedicați, uniți de aceleași valori: integritate, inovație și angajament pentru succesul clienților noștri.
 
-Echipa noastră este formată din profesioniști certificați, cu experiență solidă și dedicare, care lucrează în parteneriat strâns cu clienții pentru a asigura performanță constantă într-un mediu de afaceri dinamic.
+## Filosofia Noastră
 
-Suntem experți în domeniul financiar-contabil dedicați afacerilor de succes. Colaborăm cu companii care doresc creștere sustenabilă, oferind suport profesional actualizat continuu cu legislația în vigoare pentru protecția și optimizarea afacerii tale.
+**Misiunea Noastră**
+Să oferim soluții financiar-contabile integrate și consultanță de afaceri la cele mai înalte standarde, pentru a sprijini creșterea sustenabilă a partenerilor noștri.
 
-### Inovație și digitalizare
-Implementăm soluții software performante pentru automatizarea proceselor contabile, oferindu-ți nu doar instrumentele potrivite, ci și training complet pentru utilizarea optimă în beneficiul afacerii tale.
+**Viziunea Noastră**
+Să devenim cel mai de încredere partener de servicii B2B din România pentru companiile care pun preț pe calitate, tehnologie și o viziune strategică pe termen lung.
 
-### Confidențialitate
-Protecția datelor tale este prioritară. Toate informațiile și documentele sunt gestionate conform standardelor GDPR, cu discreție profesională totală. Confidențialitatea este parte esențială din codul nostru de conduită profesională.
+**Valorile Noastre**
 
-### Încredere
-Afacerea ta beneficiază de expertiza unei echipe cu experiență dovedită. Tratăm fiecare client cu aceeași exigență și profesionalism, indiferent de dimensiunea colaborării.
+**Integritate** - Acționăm întotdeauna cu onestitate și transparență.
 
-### Integritate
-Menținem standardele etice cele mai înalte în toate aspectele activității noastre. Succesul tău este important, dar niciodată în detrimentul integrității profesionale și respectării legislației.
+**Excelență** - Livrăm servicii de cea mai înaltă calitate, depășind constant așteptările.
 
-## Horațiu Hagiu
-**Founder & Senior Partner**
+**Parteneriat** - Construim relații pe termen lung, bazate pe încredere și respect reciproc.
 
-Partener fondator al Weex Global – fostul Ascelis Active FiNANCE – cu peste 20 de ani experiență în domeniul financiar-contabil și în consultanță de business, Horațiu a fost implicat în nenumărate proiecte de înaltă competență atât pentru entități locale, cât și pentru cele multinaționale.
+**Inovație** - Îmbrățișăm tehnologia pentru a oferi soluții eficiente și moderne.
 
-Forța din spatele Tax Camp – singurul eveniment de acest gen din România, o “tabără” de fiscalitate, contabilitate și dezvoltare personală, Horațiu a coordonat mii de profesioniști, economiști și experți contabili din toată țara în cadrul acestui eveniment bianual din ultimii 15 ani.
+## 20+ Ani de Experiență Consolidată (din 1999)
 
-## Certificări
+Kontas Management s-a format prin consolidarea unei echipe de profesioniști cu o vastă experiență în domeniul financiar-contabil, acumulată de-a lungul a peste 20 de ani de la 1999. Mulți dintre clienții și experții noștri provin din colaborarea de succes sub umbrela Weex Global, o fundație pe care continuăm să construim cu mândrie sub noul brand, Kontas. Astăzi, Kontas reprezintă un standard de excelență și inovație pe piața de servicii de business din România.
+
+## Faceți cunoștință cu Liderii Echipei Noastre
+
+### Horațiu Hagiu
+**Managing Partner**
+
+Cu peste 20 de ani de experiență în domeniul financiar-contabil, Horațiu Hagiu este o figură respectată în industria serviciilor de business din România. A fondat Weex Global (anterior Ascelis Active FiNANCE) și a coordonat cu succes sute de proiecte complexe pentru entități locale și multinaționale de top.
+
+Horațiu este cunoscut în special pentru rolul său de **coordonator și ideolog al Tax Camp** – singurul eveniment de acest gen din România. Timp de peste 15 ani, bianual, el a organizat și condus un forum dedicat educației continue în fiscalitate, contabilitate și dezvoltare personală, reunind anual mii de profesioniști din toată țara. Tax Camp a devenit referința în industrie pentru calitate și relevanță, transformând modul în care experții români abordează cunoașterea și dezvoltarea profesională.
+
+Sub conducerea sa, Kontas Management a consolidat cea mai experimentată echipă de specialiști financiar-contabili din România, cu o reputație construită pe profesionalism, transparență și rezultate concrete pentru clienți. Filosofia lui Horațiu este simplă: **serviciile de calitate se construiesc pe relații autentice și expertise fundamentată pe experiență reală**.
+
+*LinkedIn: [Profil LinkedIn]*
+
+## Impactul Nostru în Cifre
+
+Peste 20 de ani de presență în piață și un portofoliu de clienți care vorbește de la sine:
+
+- **20+ ani** de experiență cumulată în servicii financiar-contabile (din 1999)
+- **Peste 100** clienți activi din diverse industrii (producție, tehnologie, comerț, servicii)
+- **Zeci de companii internaționale** asistate în piața română
+- **Mii de profesioniști** dezvoltați prin Tax Camp în 15+ ani
+- **Certificări maxime:** CECCAR, CCF, Stup Partner (Banca Transilvania)
+
+## Vrei să faci parte dintr-o echipă de succes?
+
+Căutăm mereu profesioniști talentați. Dacă împărtășești valorile noastre, contactează-ne pentru oportunități de carieră.
+
+[Contactează-ne](/contact/)
+
+---
+
+**Certificări**
 
 Compania noastră este membru certificat al Corpului Experţilor Contabili şi Contabililor Autorizaţi din România (CECCAR) și al Camerei Consultanţilor Fiscali (CCF).

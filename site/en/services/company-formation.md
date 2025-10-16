@@ -1,16 +1,17 @@
 ---
 title: "Company Formation & Legal Support in Romania | Kontas"
+description: "Complete legal assistance for company formation (SRL, PFA, II), amendments to constitutive acts, permits, authorizations, and comprehensive legal support services in Romania."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
 <link rel="alternate" href="https://kontas.ro/en/services/company-formation/" hreflang="en-RO" />
-<link rel="alternate" href="https://kontas.ro/servicii/infiintare-firma/" hreang="ro-RO" />
+<link rel="alternate" href="https://kontas.ro/servicii/infiintare-firma/" hreflang="ro-RO" />
 <link rel="alternate" href="https://kontas.ro/en/services/company-formation/" hreflang="x-default" />
 -->
 
 # Company Formation and Comprehensive Legal Support
 
-If you are determined to open a company, we can help you. Kontas AI Solutions SRL offers comprehensive legal assistance for the establishment and support of your business, eliminating administrative burdens.
+If you are determined to open a company, we can help you. Kontas offers comprehensive legal assistance for the establishment and support of your business, eliminating administrative burdens.
 
 ## Company Formation and Legal Support Services
 
@@ -27,3 +28,5 @@ If you are determined to open a company, we can help you. Kontas AI Solutions SR
 *   **Coverage:** Benefit from coverage through contractual liability and representation before financial control bodies.
 *   **Advantageous Rates:** The rates for our services can be significantly lower than maintaining your own accounting department.
 *   **Unlimited:** Benefit from accounting and tax consulting services for unlimited periods, without encountering the complications of an individual employment contract.
+
+[Request a Custom Quote](/en/contact/)

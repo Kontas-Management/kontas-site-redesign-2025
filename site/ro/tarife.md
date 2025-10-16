@@ -1,5 +1,6 @@
 ---
 title: "Tarife Servicii Contabilitate & Consultanță | Kontas"
+description: "Tarife transparente și accesibile pentru contabilitate, fiscalitate și consultanță business. Prețuri personalizate bazate pe complexitate. Cere ofertă azi."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,18 +11,62 @@ title: "Tarife Servicii Contabilitate & Consultanță | Kontas"
 
 # Tarife Transparente, Soluții Personalizate
 
-Tarifele pentru serviciile de contabilitate și consultanță practicate de firma noastră sunt foarte accesibile, fiind stabilite în funcție de complexitatea activității companiei dumneavoastră și de serviciile suplimentare solicitate.
+Oferim tarife competitive și flexible, adaptate complexității activității tale și serviciilor solicitate. Nu existe soluții "one-size-fits-all" – fiecare afacere este unică, iar prețurile trebuie să reflecte asta.
 
-Ținând cont de specificul fiecărei companii, echipa noastră va elabora varianta optimă de colaborare pentru serviciile prestate.
+## Cum Sunt Stabilite Tarifele?
 
-## Cere Ofertă Personalizată
+Tarifele noastre se bazează pe:
 
-Pentru a afla rapid o estimare a costurilor tale legate de serviciile contabile de care ai nevoie, trimite-ne mai multe detalii despre tine și afacerea ta. Experții noștri vor reveni cu o ofertă după evaluare.
+- **Complexitatea activității:** Tipul de entitate (SRL, PFA, IF), volum de tranzacții, ramura de activitate
+- **Servicii solicitate:** Contabilitate completă, fiscalitate, HR, consultanță business
+- **Automatizare și eficiență:** Implementarea de software și procese digitalizate reduce costurile
+- **Durata colaborării:** Parteneriate pe termen lung beneficiază de tarife mai accesibile
 
-\*Tarifele serviciilor de contabilitate pe care le veți primi pe email au un caracter orientativ. Prețul final va fi stabilit după o întâlnire și o negociere a condițiilor cu dvs.
+## Categorii de Servicii și Pricing
 
-## Avantajele Colaborării cu Noi
+### 📊 Servicii de Bază
+- Contabilitate lunară și raportare
+- Declarații fiscale și TVA
+- Asistență impozitare
 
-*   **Acoperire:** Beneficiați de acoperire prin răspunderea contractuală și reprezentare în fața organelor de control financiar.
-*   **Tarife avantajoase:** Tarifele serviciilor oferite de noi pot fi cu mult mai mici decât propriul departament de contabilitate.
-*   **Nelimitat:** Beneficiați de servicii de contabilitate și consultanță fiscală pe perioade de timp nelimitate, fără a vă lovi de complicațiile unui contract individual de muncă.
+### 🔒 Servicii Complete
+- Toate din Serviciile de Bază +
+- Administrare HR și salarizare
+- Consultanță fiscală și planificare
+
+### 🚀 Servicii Premium
+- Toate din Serviciile Complete +
+- Consultanță business și strategie
+- Audit și due diligence
+- Suport dedicat 24/7
+
+*Fiecare categorie este personalizată în funcție de nevoile tale specifice.*
+
+## De Ce Kontas este o Investiție Inteligentă?
+
+**💰 Economie de Costuri vs. Departament Intern:**
+Tarifele noastre sunt semnificativ mai mici decât costul unui departament de contabilitate propriu (salarii + beneficii + training + software).
+
+**✅ Acoperire și Responsabilitate:**
+Toate serviciile sunt acoperite de răspundere contractuală și asigurare. Ești reprezentat profesional în fața organelor de control.
+
+**⚡ Eficiență și Viteză:**
+Prin automatizare și procese optimizate, obții mai rapid informațiile financiare de care ai nevoie pentru decizii strategice.
+
+**📈 Scalabilitate:**
+Poți adăuga sau reduce servicii oricând, fără complicațiile unui contract individual de muncă.
+
+## Cere o Ofertă Personalizată
+
+Tarifele concrete depind de situația unică a afacerii tale. Pentru o estimare precisă:
+
+1. **Completează formularul de contact** cu detalii despre afacerea ta
+2. **Descrie serviciile necesare** (contabilitate, HR, consultanță, etc.)
+3. **Menționează volumul de lucru** (tranzacții lunare, angajați, complexitate)
+4. **Alege tipul de colaborare** (outsourcing complet, partial, consultanță)
+
+Experții noștri vor analiza situația și vor trimite o **ofertă detaliat personalizată** în maxim 24-48 de ore.
+
+**[Cere Ofertă Personalizată](/contact/)**
+
+*\*Tarifele transmise prin email sunt orientative. Prețul final se stabilește după o ședință și o negociere a condițiilor.*

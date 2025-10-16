@@ -1,5 +1,6 @@
 ---
 title: "About Kontas - Team of Experts in Accounting and Advisory"
+description: "Meet the Kontas team. Discover the values, history, and professional expertise that make us the ideal partner for your business and growth in Romania."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -8,33 +9,63 @@ title: "About Kontas - Team of Experts in Accounting and Advisory"
 <link rel="alternate" href="https://kontas.ro/en/about-us/" hreflang="x-default" />
 -->
 
-# The Kontas Team: Experience, Innovation, and Integrity in Financial Services
+# Partners in Your Business Growth, Not Just Service Providers
 
-Kontas AI Solutions SRL is an accounting firm based in Bucharest, Romania, offering comprehensive financial and accounting services and business consulting. We are dedicated to enhancing our clients' operations from every perspective.
+We are a dedicated team of experts, united by the same values: integrity, innovation, and a commitment to our clients' success.
 
-Our firm is comprised of highly skilled professionals with extensive experience, energy, and enthusiasm. We work closely with our clients to ensure peak performance in a dynamic business environment.
+## Our Philosophy
 
-We are a team of experts in the financial and accounting field committed to fostering successful businesses. We can partner with you if you aim to grow your business. Always prepared and up-to-date with legislation, we ensure your business is never at a disadvantage.
+**Our Mission**
+To provide integrated financial-accounting solutions and business advisory at the highest standards, supporting the sustainable growth of our partners.
 
-### Innovation and Digitalization.
-Our services are fast, with or without automation. We believe in leveraging high-performance software solutions; we can implement them for you and teach you how to understand and utilize them to your advantage.
+**Our Vision**
+To become the most trusted B2B service partner in Romania for companies that value quality, technology, and a long-term strategic vision.
 
-### Confidentiality.
-All matters remain strictly confidential between you and us. All solutions are delivered effectively. Personal data and information are managed with the utmost professionalism, ensuring your best interests are always protected.
+**Our Values**
 
-### Trust.
-You can place more trust in us than you do in yourself. Your business is in the capable hands of an expert team, and it will always be treated with the highest standards of diligence.
+**Integrity** - We always act with honesty and transparency.
 
-### Integrity
-Our purpose does not compromise our principles. We maintain our integrity even when passionately dedicated to helping you achieve your objectives.
+**Excellence** - We deliver the highest quality services, consistently exceeding expectations.
 
-## Horatiu Hagiu
-**Founder & Senior Partner**
+**Partnership** - We build long-term relationships based on trust and mutual respect.
 
-Founding partner of Weex Global – formerly Ascelis Active FiNANCE – with over 20 years of experience in financial-accounting and business consulting, Horatiu has been involved in countless high-competence projects for both local and multinational entities.
+**Innovation** - We embrace technology to provide efficient and modern solutions.
 
-The driving force behind Tax Camp – the only event of its kind in Romania, a "camp" for taxation, accounting, and personal development, Horatiu has coordinated thousands of professionals, economists, and expert accountants from across the country at this biannual event for the past 15 years.
+## 20+ Years of Professional Experience (Since 1999)
 
-## Certifications
+Kontas Management was formed by consolidating a team of professionals with vast experience in the financial and accounting field, accumulated over more than 20 years since 1999. Many of our clients and experts come from the successful collaboration under the Weex Global umbrella, a foundation we proudly continue to build upon under the new Kontas brand. Today, Kontas represents a standard of excellence and innovation in the Romanian business services market.
+
+## Meet Our Team Leaders
+
+### Horațiu Hagiu
+**Managing Partner**
+
+With over 20 years of experience in financial-accounting services, Horațiu Hagiu is a respected figure in Romania's business services industry. He founded Weex Global (previously Ascelis Active FiNANCE) and has successfully coordinated hundreds of complex projects for leading local and multinational entities.
+
+Horațiu is particularly recognized for his role as **founder and coordinator of Tax Camp** – the only event of its kind in Romania. For over 15 years, held biannually, he has organized and led a unique forum dedicated to continuous education in taxation, accounting, and professional development, bringing together thousands of finance professionals from across the country. Tax Camp has become the industry standard for quality and relevance, transforming how Romanian finance experts approach professional knowledge and growth.
+
+Under his leadership, Kontas Management has assembled Romania's most experienced team of financial-accounting specialists, with a reputation built on professionalism, transparency, and concrete results for clients. Horațiu's philosophy is straightforward: **quality services are built on authentic relationships and expertise grounded in real-world experience**.
+
+*LinkedIn: [LinkedIn Profile]*
+
+## Our Impact in Numbers
+
+Over 20 years in the market with a client portfolio that speaks for itself:
+
+- **20+ years** of cumulative experience in financial-accounting services (since 1999)
+- **100+ active clients** from diverse industries (manufacturing, technology, retail, services)
+- **Dozens of international companies** assisted in the Romanian market
+- **Thousands of professionals** developed through Tax Camp over 15+ years
+- **Maximum certifications:** CECCAR, CCF, Stup Partner (Banca Transilvania)
+
+## Want to be part of a successful team?
+
+We are always looking for talented professionals. If you share our values, contact us for career opportunities.
+
+[Contact Us](/en/contact/)
+
+---
+
+**Certifications**
 
 Our company is a certified member of the Body of Expert Accountants and Licensed Accountants of Romania (CECCAR) and the Chamber of Tax Consultants (CCF).

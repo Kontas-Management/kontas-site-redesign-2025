@@ -1,5 +1,6 @@
 ---
 title: "Tax & Financial Advisory | Kontas"
+description: "Tax optimization, strategic financial planning, transfer pricing documentation, and expert advisory services. Navigate complex tax systems with professional guidance and support."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,7 +11,7 @@ title: "Tax & Financial Advisory | Kontas"
 
 # Tax and Financial Advisory for Informed Decisions
 
-More than just tax consulting, we offer a partnership for your business success. We are committed to building long-term relationships with our clients, based on trust, transparency, and efficient communication. Kontas AI Solutions SRL is an accounting firm with comprehensive services, adapted to market needs, ensuring a high level of quality.
+More than just tax consulting, we offer a partnership for your business success. We are committed to building long-term relationships with our clients, based on trust, transparency, and efficient communication. Kontas offers comprehensive services, adapted to market needs, ensuring a high level of quality.
 
 ## Tax and Financial Advisory Services
 
@@ -23,10 +24,12 @@ More than just tax consulting, we offer a partnership for your business success.
 
 ## What Tax Professionals Say. Pertinent Advice and Recommendations.
 
-The driving force behind Tax Camp – the only event of its kind in Romania, a "camp" for taxation, accounting, and personal development, Horatiu has coordinated thousands of professionals, economists, and expert accountants from across the country at this biannual event for the past 15 years.
+The driving force behind Tax Camp – the only event of its kind in Romania, a "camp" for taxation, accounting, and personal development, Horațiu has coordinated thousands of professionals, economists, and expert accountants from across the country at this biannual event for the past 20+ years.
 
 ## Advantages of Partnering with Us
 
 *   **Coverage:** Benefit from coverage through contractual liability and representation before financial control bodies.
 *   **Advantageous Rates:** The rates for our services can be significantly lower than maintaining your own accounting department.
 *   **Unlimited:** Benefit from accounting and tax consulting services for unlimited periods, without encountering the complications of an individual employment contract.
+
+[Request a Custom Quote](/en/contact/)

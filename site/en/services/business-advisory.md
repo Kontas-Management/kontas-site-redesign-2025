@@ -1,5 +1,6 @@
 ---
 title: "Business Advisory & Strategic Development | Kontas"
+description: "Strategic business consulting, process optimization, M&A support, comprehensive due diligence, and expert financial management. Your trusted growth partner for sustainable business success."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,7 +11,7 @@ title: "Business Advisory & Strategic Development | Kontas"
 
 # Business Advisory: Your Partner for Growth and Success
 
-Kontas AI Solutions SRL offers comprehensive business consulting services, tailored to market needs, ensuring a high level of quality. We are your partner for growth and success, providing optimal solutions in business consulting.
+Kontas offers comprehensive business consulting services, tailored to market needs, ensuring a high level of quality. We are your partner for growth and success, providing optimal solutions in business consulting.
 
 ## Business Advisory Services
 
@@ -35,3 +36,5 @@ We have no doubt that you can learn to do everything yourself if you want to and
 *   **Coverage:** Benefit from coverage through contractual liability and representation before financial control bodies.
 *   **Advantageous Rates:** The rates for our services can be significantly lower than maintaining your own accounting department.
 *   **Unlimited:** Benefit from accounting and tax consulting services for unlimited periods, without encountering the complications of an individual employment contract.
+
+[Request a Custom Quote](/en/contact/)

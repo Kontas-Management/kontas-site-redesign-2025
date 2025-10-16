@@ -1,5 +1,6 @@
 ---
 title: "Servicii Contabilitate, Fiscalitate, Salarizare & Consultanță | Kontas"
+description: "Descoperă gama completă de servicii Kontas: contabilitate digitalizată, consultanță fiscală, salarizare și HR, consultanță de afaceri și înființări de firme."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,49 +11,32 @@ title: "Servicii Contabilitate, Fiscalitate, Salarizare & Consultanță | Kontas
 
 # Soluții Financiare Complete pentru Succesul Afacerii Tale
 
-Kontas oferă servicii contabile complete, adaptate nevoilor specifice ale fiecărei companii, asigurând calitate superioară și flexibilitate maximă. Gama noastră largă de servicii se adaptează perfect tuturor tipurilor de business, de la micro-întreprinderi la companii mari, oferind soluții personalizate care susțin dezvoltarea continuă a afacerii tale.
+De la contabilitate și fiscalitate, la strategie de business și suport administrativ, suntem partenerul tău unic pentru o administrare eficientă și o creștere sustenabilă.
 
-## Servicii de Bază
+## Explorează Categoriile Noastre de Servicii
 
-### Contabilitate Digitalizată & Raportare
-Servicii complete, digitalizate, raportare financiară, expertize.
-[Află mai multe](/servicii/contabilitate-raportare/)
+**Contabilitate & Raportare**
+Asigurăm o fundație financiară solidă pentru afacerea ta, prin servicii de contabilitate digitalizată, raportare precisă și expertiză conform standardelor în vigoare.
+[Vezi detalii](/servicii/contabilitate-raportare/)
 
-### Salarizare & Administrare Personal
-Calcul salarii, administrare dosare de personal, consultanță legislația muncii.
-[Află mai multe](/servicii/salarizare-resurse-umane/)
+**Salarizare & Resurse Umane**
+Gestionăm complet procesele de salarizare și administrare de personal, eliberându-te de sarcini administrative complexe și asigurând conformitatea legală.
+[Vezi detalii](/servicii/salarizare-resurse-umane/)
 
-### Consultanță Fiscală & Financiară
-Optimizare fiscală, planificare, analiză impozite, prețuri de transfer.
-[Află mai multe](/servicii/consultanta-fiscala/)
+**Consultanță Fiscală & Financiară**
+Te ajutăm să navighezi complexitatea sistemului fiscal din România. Oferim soluții de optimizare fiscală și planificare financiară pentru decizii informate.
+[Vezi detalii](/servicii/consultanta-fiscala/)
 
-## Servicii de Afaceri Extinse
+**Consultanță de Afaceri**
+Acționăm ca un partener strategic, oferind consultanță pentru dezvoltarea afacerii, optimizarea proceselor și atingerea obiectivelor pe termen lung.
+[Vezi detalii](/servicii/consultanta-afaceri/)
 
-### Consultanță de Afaceri
-Planificare strategică, optimizare procese, management financiar.
-[Află mai multe](/servicii/consultanta-afaceri/)
+**Înființare Firmă & Suport Juridic**
+Simplificăm procesul de lansare a unei afaceri în România, oferind asistență completă pentru înființarea companiei și suport juridic specializat.
+[Vezi detalii](/servicii/infiintare-firma/)
 
-### Fuziuni & Achiziții
-Asistență în procese de M&A, evaluare companii.
-[Află mai multe](/servicii/consultanta-afaceri/)
+## Nu ești sigur de ce ai nevoie?
 
-### Audit & Due Diligence
-Audit financiar, due diligence fiscal, evaluare riscuri.
-[Află mai multe](/servicii/consultanta-afaceri/)
+Fiecare afacere este unică. Contactează-ne pentru o consultație gratuită și vom construi împreună un pachet de servicii personalizat, perfect adaptat nevoilor și bugetului tău.
 
-### Dosare de Finanțare
-Asistență pentru obținerea de finanțări.
-[Află mai multe](/servicii/consultanta-afaceri/)
-
-### Dosare Prețuri de Transfer
-[Află mai multe](/servicii/consultanta-afaceri/)
-
-## Servicii Juridice & Administrative Specializate
-
-### Înființare Firmă & Suport
-Asistență juridică pentru înființare SRL, PFA, sediu social.
-[Află mai multe](/servicii/infiintare-firma/)
-
-### Servicii pentru Străini
-Asistență pentru obținerea vizelor de ședere/muncă, consultanță imigrație.
-[Află mai multe](/servicii/infiintare-firma/)
+[Cere o Ofertă Personalizată](/contact/)

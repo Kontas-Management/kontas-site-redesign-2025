@@ -1,5 +1,6 @@
 ---
 title: "Payroll & HR Administration | Kontas"
+description: "Complete payroll and HR administration services with labor law consulting. Automated, fully compliant, and efficient employee management solutions for your team."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -10,7 +11,7 @@ title: "Payroll & HR Administration | Kontas"
 
 # Payroll and Human Resources: Complete Solutions for Your Team
 
-We understand how valuable your time is and are dedicated to offering premium payroll and human resources administration services. Kontas AI Solutions SRL is an accounting firm with comprehensive services, adapted to market needs, ensuring a high level of quality.
+We understand how valuable your time is and are dedicated to offering premium payroll and human resources administration services. Kontas offers comprehensive services, adapted to market needs, ensuring a high level of quality.
 
 ## Payroll Services
 
@@ -34,3 +35,5 @@ Our fast services, with or without automation, are designed to maximize efficien
 *   **Coverage:** Benefit from coverage through contractual liability and representation before financial control bodies.
 *   **Advantageous Rates:** The rates for our services can be significantly lower than maintaining your own accounting department.
 *   **Unlimited:** Benefit from accounting and tax consulting services for unlimited periods, without encountering the complications of an individual employment contract.
+
+[Request a Custom Quote](/en/contact/)

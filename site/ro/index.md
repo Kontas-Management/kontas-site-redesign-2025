@@ -1,6 +1,6 @@
 ---
 title: "Kontas - Servicii Contabilitate, Fiscalitate & Consultanță de Afaceri"
-description: "Soluții complete financiar-contabile, fiscale și de business pentru afacerea ta. Contabilitate digitalizată, salarizare, consultanță strategică."
+description: "Soluții complete de contabilitate digitalizată, consultanță fiscală și business advisory. Parteneri strategici pentru creșterea și stabilitatea afacerii tale."
 ---
 <!-- Hreflang tags for SEO -->
 <!--
@@ -11,73 +11,53 @@ description: "Soluții complete financiar-contabile, fiscale și de business pen
 
 # Eficiență Financiar-Contabilă de Înaltă Clasă, pentru ca Businessul Tău să Prospere
 
-## Pentru o sănătate financiară pe termen lung
+## Partenerul Tău Strategic pentru Stabilitate și Creștere
 
-Kontas este o firmă de contabilitate din București cu peste 20 de ani de experiență, oferind servicii complete de contabilitate și consultanță financiară. Ne concentrăm pe îmbunătățirea continuă a activității clienților noștri, asigurând rezultate măsurabile și performanță sustenabilă.
+**Expertiză Integrată**
+Beneficiezi de o echipă completă de experți – contabili, consultanți fiscali și de business – care lucrează împreună pentru succesul tău.
 
-Echipa noastră este formată din profesioniști certificați, cu experiență solidă în domeniu, care lucrează în parteneriat strâns cu clienții pentru a asigura performanță constantă într-un mediu de afaceri dinamic.
+**Tehnologie și Eficiență**
+Folosim platforme digitale moderne pentru a automatiza procesele, a reduce erorile și a-ți oferi acces rapid la datele financiare.
 
-Suntem experți în domeniul financiar-contabil dedicați afacerilor de succes. Colaborăm cu companii care doresc creștere sustenabilă, oferind suport profesional actualizat continuu cu legislația în vigoare, astfel încât afacerea ta să fie întotdeauna protejată și optimizată.
+**Viziune Strategică**
+Mergem dincolo de simple raportări. Îți oferim analize și consultanță proactivă pentru a lua cele mai bune decizii de business.
 
-### Inovație și digitalizare
-Implementăm soluții software performante pentru automatizarea proceselor contabile, oferindu-ți nu doar instrumentele potrivite, ci și training complet pentru utilizarea optimă în beneficiul afacerii tale.
+**Suport pentru Afaceri Internaționale**
+Oferim consultanță specializată pentru investitorii străini, acoperind toate aspectele legale și financiare ale pieței din României.
 
-### Confidențialitate
-Protecția datelor tale este prioritară. Toate informațiile și documentele sunt gestionate conform standardelor GDPR, cu discreție profesională totală. Confidențialitatea este parte esențială din codul nostru de conduită profesională.
+## De Ce Partenerii Noștri Ne Aleg
 
-### Încredere
-Afacerea ta beneficiază de expertiza unei echipe cu experiență dovedită. Tratăm fiecare client cu aceeași exigență și profesionalism, indiferent de dimensiunea colaborării.
+**20+ Ani de Experiență Consolidată** (din 1999)
+Kontas Management a fost formată prin consolidarea unei echipe cu o vastă experiență în domeniu. Această tradiție de excelență continuă sub noul brand, cu rădăcini în colaborarea de succes sub umbrela Weex Global.
 
-### Integritate
-Menținem standardele etice cele mai înalte în toate aspectele activității noastre. Succesul tău este important, dar niciodată în detrimentul integrității profesionale și respectării legislației.
+**Credibilitate Profesională**
+Suntem membri certificați ai **CECCAR** (Corpul Experților Contabili și Contabililor Autorizați) și **CCF** (Camera Consultanților Fiscali), garantând standarde profesionale maxime.
 
-## Servicii oferite
+**Reconocuți de Instituții Majore**
+Desemnați ca **Parteneri Stup** de Banca Transilvania pentru calitatea și fiabilitatea serviciilor noastre.
 
-### Contabilitate digitalizată. Salarizare. HR.
-Firma de Contabilitate cu peste 20 de ani de experiență, vă oferim servicii de înaltă calitate indiferent de orașul în care vă desfășurați activitatea.
-[Află mai multe](/servicii/contabilitate-raportare/)
+**Lider de Gândire în Industrie**
+Organizatori ai **Tax Camp** – singurul eveniment de acest gen în România, care reunește anual mii de profesioniști, economiști și experți contabili pentru educație continuă și dezvoltare personală.
 
-### Consultanță fiscală și financiară.
-Mai mult decât consultanță fiscală, oferim un parteneriat pentru succesul afacerii tale. Ne angajăm să construim relații de lungă durată cu clienții noștri, bazate pe încredere, transparență și comunicare eficientă.
-[Află mai multe](/servicii/consultanta-fiscala/)
+## Soluții Complete pentru Fiecare Etapă a Afacerii Tale
 
-### Consultanță de afaceri
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
+**Contabilitate & Raportare**
+De la înregistrări contabile precise la raportări financiare complexe, asigurăm conformitatea și claritatea de care ai nevoie.
+[Detalii Serviciu](/servicii/contabilitate-raportare/)
 
-### Fuziune și achiziții
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
+**Consultanță Fiscală & Financiară**
+Optimizăm sarcina fiscală a companiei tale și te asistăm în luarea deciziilor financiare strategice.
+[Detalii Serviciu](/servicii/consultanta-fiscala/)
 
-### Audit
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
+**Salarizare & Resurse Umane**
+Gestionăm eficient administrarea de personal și procesele de salarizare, asigurând conformitatea cu legislația muncii.
+[Detalii Serviciu](/servicii/salarizare-resurse-umane/)
 
-### Due diligence
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
+## Rezultate Concrete pentru Clienții Noștri
 
-### Expertize judiciare și extrajudiciare
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
+*Studiile de caz detaliate vor fi adăugate conform informațiilor specifice de la echipa Kontas. Fiecare caz va include: Industrie, Provocare, Soluție Kontas, Rezultat măsurabil.*
 
-### Dosare de finanțare
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
-
-### Dosare prețuri de transfer
-[Vezi mai multe detalii aici](/servicii/consultanta-afaceri/)
-
-## Avantajele colaborării cu noi
-
-Aveți posibilitatea de a fi la curent cu ultimele modificări legislative în domeniu în concordanță cu ultimele legi și tendințe europene.
-
-Activitatea firmei este susținută de un software, ce încorporează cele mai recente aplicații și sisteme de operare, având module de financiar-contabilitate, mijloace fixe, gestiune, vânzări, rapoarte management, cât și aplicația de salarizare și management de personal.
-
-#### Acoperire
-Beneficiați de acoperire prin răspunderea contractuală și reprezentare în fața organelor de control financiar.
-
-#### Tarife avantajoase
-Tarifele serviciilor oferite de noi pot fi cu mult mai mici decât propriul departament de contabilitate.
-
-#### Nelimitat
-Beneficiați de servicii de contabilitate și consultanță fiscală pe perioade de timp nelimitate, fără a vă lovi de complicațiile unui contract individual de muncă.
-
-## Ce spun clienții noștri
+## Ce Spun Partenerii Noștri
 
 > "Colaborez cu echipa condusă de Horațiu Hagiu de peste 20 de ani, din 1999. Toate afacerile pe care le-am dezvoltat sunt de succes, ceea ce vorbește despre calitatea serviciilor de contabilitate și consultanță financiară primite. Pentru consultanță fiscală și analiză de business, Kontas rămâne alegerea mea de încredere."
 > **Dan Cernea** – CEO, Ecco Group Development SRL
@@ -90,22 +70,8 @@ Beneficiați de servicii de contabilitate și consultanță fiscală pe perioade
 
 *Testimonialele reflectă colaborări de lungă durată cu echipa Kontas și predecesorul acesteia.*
 
-## Recomandări de la experții noștri financiar-contabili
+## Ești gata să duci afacerea ta la nivelul următor?
 
-*   **Respectă termenele de raportare** – Amânarea rapoartelor financiare poate genera penalități și pierderi financiare semnificative. Planificarea riguroasă a obligațiilor fiscale este esențială.
-*   **Bazează deciziile pe date reale** – Planificarea financiară riguroasă și deciziile de business fundamentate pe analize concrete conduc la rezultate previzibile și sustenabile.
-*   **Prioritizează corectitudinea documentelor** – Documentele financiar-contabile complete și corecte sunt fundamentul unei activități fără probleme cu autoritățile fiscale.
-*   **Adoptă digitalizarea** – Sistemele automate de contabilitate reduc dramatic erorile umane și timpul de procesare. Digitalizarea nu este un lux, ci o necesitate pentru eficiență maximă.
+Hai să discutăm despre nevoile specifice ale companiei tale. Programează o consultație gratuită cu unul dintre experții noștri.
 
-## Parteneri
-
-Partener Stup - Banca Transilvania
-
-## Contact
-
-Ne găsiți aici: Str. Raristei Nr. 7, Sector 2, Bucuresti
-Email: office@kontas.ro
-Telefon: 004 0724 205 501
-
-CECCAR
-Compania noastra este membru certificat al Corpului Experţilor Contabili şi Contabililor Autorizaţi din România (CECCAR) si al Camerei Consultanţilor Fiscali (CCF)
+[Programează o Consultație](/contact/)
