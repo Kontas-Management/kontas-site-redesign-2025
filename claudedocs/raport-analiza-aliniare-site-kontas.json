@@ -1,0 +1,961 @@
+{
+  "metadata": {
+    "data_analiză": "2025-10-16",
+    "versiune_raport": "1.0",
+    "analist": "Claude Code",
+    "scop": "Analiza alinierii structurale a paginilor site-ului Kontas.ro cu ghidurile de implementare"
+  },
+  "standard_identificat": {
+    "din_ghiduri": {
+      "structura_obligatorie": [
+        "H1 principal (optimizat SEO)",
+        "Subtitlu clar",
+        "Secțiuni structurate cu H2/H3",
+        "Propunere de valoare (3-4 coloane/puncte)",
+        "CTA (Call to Action) clar",
+        "Link-uri interne relevante",
+        "Meta title și description optimizate SEO",
+        "Hreflang tags pentru SEO internațional"
+      ],
+      "sectiuni_specifice_pagina_home": [
+        "Hero (H1 + Subtitlu + CTA)",
+        "Propunere de valoare (De ce Kontas)",
+        "Prezentare servicii cheie (cu link-uri)",
+        "Studii de caz / Dovada rezultatelor",
+        "Testimoniale",
+        "CTA final",
+        "Footer complet"
+      ],
+      "sectiuni_specifice_despre_noi": [
+        "Hero inspirațional",
+        "Misiune, Viziune, Valori",
+        "Istoric și evoluție (15+ ani experiență)",
+        "Echipa de lideri (cu bio Horațiu Hagiu)",
+        "Kontas în cifre",
+        "CTA pentru cariere sau contact"
+      ],
+      "sectiuni_specifice_servicii_hub": [
+        "Hero descriptiv",
+        "Grilă de servicii (carduri cu descrieri)",
+        "Link-uri către pagini detaliate",
+        "CTA pentru ofertă personalizată"
+      ],
+      "sectiuni_specifice_pagina_serviciu": [
+        "Hero (H1 serviciu specific)",
+        "Descriere detaliată servicii",
+        "Beneficii colaborării",
+        "Proces de lucru",
+        "Tehnologie/Digitalizare",
+        "Industrii servite",
+        "CTA final"
+      ],
+      "considerente_seo": {
+        "meta_title": "Cuvinte cheie + Brand",
+        "meta_description": "150-160 caractere, call to action",
+        "h1": "Unic, keyword-optimized",
+        "link_uri_interne": "Către toate paginile relevante",
+        "hreflang": "ro-RO, en-RO, x-default"
+      }
+    }
+  },
+  "analiza_pagini": {
+    "limba_romana": {
+      "site/ro/index.md": {
+        "status": "⚠️ PARȚIAL ALINIAT",
+        "nivel_aliniare": 60,
+        "prioritate": "🔴 CRITICĂ (Pagină Principală)",
+        "secțiuni_prezente": [
+          "H1 bun (optimizat SEO)",
+          "Subtitlu descriptiv",
+          "Propunere de valoare (Inovație, Confidențialitate, Încredere, Integritate)",
+          "Servicii oferite (cu link-uri)",
+          "Testimoniale (3, conforme)",
+          "Recomandări de la experți",
+          "Contact și certificări"
+        ],
+        "secțiuni_lipsă": [
+          "Hero vizual distinct cu CTA-uri clare (Vezi Serviciile / Programează Consultație)",
+          "Secțiune 'De ce Kontas?' structurată în 4 coloane cu pictograme",
+          "Studii de caz concrete (Placeholder-e din ghid)",
+          "CTA final distinct ('Ești gata să duci afacerea la nivelul următor?')",
+          "Footer structurat în 4 coloane"
+        ],
+        "probleme_seo": [
+          "Meta description prezentă, dar H1 nu corespunde exact cu ghidul ('Eficiență Financiar-Contabilă de Înaltă Clasă')",
+          "Lipsă secțiune structurată pentru servicii cheie (ar trebui carduri cu link-uri către /servicii/contabilitate-raportare/)",
+          "Link-uri către servicii sunt prezente, dar nu într-o secțiune dedicată 'Soluții Complete'"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Restructurează în Hero distinct cu 2 CTA-uri (Primar: Vezi Serviciile, Secundar: Programează Consultație)",
+          "🔴 URGENT: Adaugă secțiunea 'Partenerul Tău Strategic' cu 4 coloane: Expertiză Integrată, Tehnologie, Viziune Strategică, Suport Internațional",
+          "🟡 IMPORTANT: Creează secțiunea 'Soluții Complete' cu carduri pentru serviciile principale",
+          "🟡 IMPORTANT: Adaugă placeholder pentru studii de caz (conform Cerere_Informatii_Echipa_Kontas.md)",
+          "🟢 NICE-TO-HAVE: Structurează footer în 4 coloane (Logo+Descriere, Link-uri Utile, Servicii Principale, Contact)"
+        ]
+      },
+      "site/ro/despre-noi.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 35,
+        "prioritate": "🔴 CRITICĂ (Pagină Principală)",
+        "secțiuni_prezente": [
+          "H1 inspirațional (bun, dar diferit de ghid)",
+          "Descriere generală a echipei",
+          "Valori menționate (Inovație, Confidențialitate, Încredere, Integritate)",
+          "Secțiune Horațiu Hagiu (cu bio parțială)",
+          "Certificări CECCAR și CCF"
+        ],
+        "secțiuni_lipsă": [
+          "Secțiunea 'Filosofia Noastră' structurată (Misiune, Viziune, Valori cu pictograme)",
+          "Secțiunea 'Peste 15 Ani de Experiență Cumulată' cu istoric Weex Global",
+          "Secțiunea 'Faceți cunoștință cu Liderii Echipei' (carduri pentru membri)",
+          "Secțiunea 'Impactul Nostru în Cifre' (placeholder pentru cifre)",
+          "CTA final pentru cariere/contact",
+          "Hero vizual distinct"
+        ],
+        "probleme_seo": [
+          "Meta title prezent, dar lipsă meta description",
+          "H1 nu corespunde exact cu ghidul ('Parteneri în creșterea afacerii tale')",
+          "Lipsă structură clară Misiune/Viziune/Valori"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Restructurează complet după ghidul implementare-pagina-despre-noi.md",
+          "🔴 URGENT: Adaugă secțiunea 'Filosofia Noastră' cu Misiune, Viziune și 4 Valori (cu pictograme)",
+          "🔴 URGENT: Creează secțiunea 'Peste 15 Ani de Experiență Cumulată' cu istoric Weex Global → Kontas",
+          "🟡 IMPORTANT: Extinde secțiunea Horațiu Hagiu cu bio completă (200-300 cuvinte, solicită de la echipă)",
+          "🟡 IMPORTANT: Adaugă placeholder pentru 'Kontas în Cifre' (solicită date de la echipă)",
+          "🟡 IMPORTANT: Adaugă CTA final pentru cariere sau contact"
+        ]
+      },
+      "site/ro/servicii.md": {
+        "status": "⚠️ PARȚIAL ALINIAT",
+        "nivel_aliniare": 55,
+        "prioritate": "🔴 CRITICĂ (Pagină Hub)",
+        "secțiuni_prezente": [
+          "H1 conform ghidului ('Soluții Financiare Complete')",
+          "Descriere generală servicii",
+          "Organizare în categorii (Servicii de Bază, Extinse, Juridice)",
+          "Link-uri către toate paginile de servicii detaliate"
+        ],
+        "secțiuni_lipsă": [
+          "Hero distinct cu subtitlu inspirațional",
+          "Secțiunea 'Explorează Categoriile Noastre de Servicii' ca grilă de carduri",
+          "Carduri cu pictograme pentru fiecare categorie",
+          "Descrieri clare pentru fiecare card (conform ghid)",
+          "CTA final 'Nu ești sigur de ce ai nevoie?' cu link către /contact/"
+        ],
+        "probleme_seo": [
+          "Meta title prezent și conform",
+          "Structura actuală este listă, nu grilă de carduri vizuale",
+          "Lipsă descrieri inspiraționale pentru servicii"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Restructurează în grilă de carduri (2 pe rând desktop, 1 pe mobil)",
+          "🟡 IMPORTANT: Adaugă pictograme pentru fiecare categorie de servicii",
+          "🟡 IMPORTANT: Actualizează descrierile conform ghidului (ex: 'Asigurăm o fundație financiară solidă...')",
+          "🟡 IMPORTANT: Adaugă CTA final 'Nu ești sigur de ce ai nevoie?' cu buton către /contact/",
+          "🟢 NICE-TO-HAVE: Adaugă element vizual abstract în Hero"
+        ]
+      },
+      "site/ro/servicii/contabilitate-raportare.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal)",
+        "secțiuni_prezente": [
+          "H1 conform ghidului",
+          "Descriere generală servicii",
+          "Listă servicii de contabilitate",
+          "Secțiune Inovație și Digitalizare",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Hero cu subtitlu inspirațional și CTA primar",
+          "Secțiunea 'Servicii Complete' structurată cu bullet points detaliate",
+          "Secțiunea 'De ce să alegi Kontas?' cu 4 puncte cheie + iconițe",
+          "Secțiunea 'Cum Lucrăm' cu proces în 4 pași",
+          "Secțiunea 'Tehnologie' cu mențiuni software specifice",
+          "Secțiunea 'Industrii Servite'",
+          "CTA final 'Simplifică-ți Contabilitatea'"
+        ],
+        "probleme_seo": [
+          "Meta title prezent și conform",
+          "Lipsă meta description",
+          "H1 corect, dar lipsă subtitlu Hero"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Restructurează complet după ghidul implementare-pagina-contabilitate-raportare.md",
+          "🔴 URGENT: Adaugă Hero cu subtitlu și CTA 'Cere o Ofertă Personalizată'",
+          "🔴 URGENT: Creează secțiunea 'De ce să alegi Kontas?' cu 4 beneficii + iconițe",
+          "🟡 IMPORTANT: Adaugă secțiunea 'Cum Lucrăm' cu 4 pași (Colectare, Procesare, Raportare, Consultanță)",
+          "🟡 IMPORTANT: Extinde secțiunea Tehnologie cu mențiuni software specifice (TaxDome etc.)",
+          "🟡 IMPORTANT: Adaugă secțiunea 'Industrii Servite'",
+          "🟡 IMPORTANT: Adaugă CTA final distinct"
+        ]
+      },
+      "site/ro/servicii/consultanta-fiscala.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 45,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Introducere despre parteneriat",
+          "Listă servicii consultanță fiscală",
+          "Mențiune Tax Camp și Horațiu Hagiu",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat cu subtitlu și CTA",
+          "Secțiunea 'Servicii Complete' detaliate",
+          "Secțiunea 'De ce să alegi Kontas?' structurată",
+          "Secțiunea despre proces de lucru",
+          "Secțiunea despre tehnologie/digitalizare",
+          "CTA final distinct"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description optimizată",
+          "Structură diferită de ghid"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Urmează modelul de la contabilitate-raportare.md pentru consistență",
+          "🟡 IMPORTANT: Adaugă Hero cu CTA primar",
+          "🟡 IMPORTANT: Structurează serviciile cu bullet points detaliate",
+          "🟡 IMPORTANT: Creează secțiunea 'De ce să alegi Kontas?' cu beneficii",
+          "🟢 NICE-TO-HAVE: Extinde secțiunea Tax Camp cu detalii relevante"
+        ]
+      },
+      "site/ro/servicii/salarizare-resurse-umane.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Introducere scurtă",
+          "Servicii de salarizare listate",
+          "Servicii de HR listate",
+          "Inovație și Digitalizare",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat conform ghidului serviciu",
+          "Secțiunea 'De ce să alegi Kontas?' cu puncte cheie",
+          "Secțiunea despre proces de lucru",
+          "CTA final distinct"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description",
+          "Structură simplă, fără hero vizual"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Urmează template-ul standard de serviciu (similar contabilitate-raportare)",
+          "🟡 IMPORTANT: Adaugă Hero cu subtitlu și CTA",
+          "🟡 IMPORTANT: Creează secțiunea 'De ce să alegi Kontas?' structurată",
+          "🟡 IMPORTANT: Adaugă CTA final"
+        ]
+      },
+      "site/ro/servicii/consultanta-afaceri.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 45,
+        "prioritate": "🟡 IMPORTANT (Serviciu Secundar)",
+        "secțiuni_prezente": [
+          "H1 bun",
+          "Introducere despre parteneriat",
+          "Listă extinsă de servicii (foarte bună)",
+          "Secțiune despre înțelegerea provocărilor",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat conform ghidului",
+          "Secțiunea 'De ce să alegi Kontas?' cu puncte cheie + iconițe",
+          "Secțiunea despre proces de lucru",
+          "Secțiunea despre tehnologie",
+          "CTA final distinct"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description",
+          "Structură diferită de ghid standard"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Aplică template-ul standard de serviciu",
+          "🟡 IMPORTANT: Adaugă Hero cu CTA",
+          "🟡 IMPORTANT: Structurează 'De ce să alegi Kontas?'",
+          "🟢 NICE-TO-HAVE: Adaugă studii de caz pentru consultanță de afaceri"
+        ]
+      },
+      "site/ro/servicii/infiintare-firma.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟢 NICE-TO-HAVE (Serviciu Secundar)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Introducere scurtă",
+          "Listă servicii înființare și suport juridic",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat",
+          "Secțiunea 'De ce să alegi Kontas?'",
+          "Secțiunea despre proces de lucru",
+          "CTA final distinct"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description",
+          "Structură minimală"
+        ],
+        "recomandări": [
+          "🟢 NICE-TO-HAVE: Aplică template-ul standard de serviciu",
+          "🟢 NICE-TO-HAVE: Adaugă Hero cu CTA",
+          "🟢 NICE-TO-HAVE: Extinde cu secțiuni suplimentare"
+        ]
+      },
+      "site/ro/tarife.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 85,
+        "prioritate": "🟡 IMPORTANT (Pagină Secundară)",
+        "secțiuni_prezente": [
+          "H1 clar ('Tarife Transparente')",
+          "Descriere accesibilitate tarife",
+          "CTA pentru ofertă personalizată",
+          "Disclaimer despre caracter orientativ",
+          "Avantajele colaborării"
+        ],
+        "secțiuni_lipsă": [
+          "Nu există ghid specific pentru această pagină, structura actuală este adecvată"
+        ],
+        "probleme_seo": [
+          "Meta title prezent și conform",
+          "Lipsă meta description optimizată"
+        ],
+        "recomandări": [
+          "🟢 NICE-TO-HAVE: Adaugă meta description (ex: 'Tarife transparente și accesibile pentru servicii de contabilitate. Cere ofertă personalizată adaptată nevoilor afacerii tale.')"
+        ]
+      },
+      "site/ro/blog.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 80,
+        "prioritate": "🟢 NICE-TO-HAVE (Pagină Secundară)",
+        "secțiuni_prezente": [
+          "H1 clar",
+          "Descriere scop blog",
+          "Categorii de articole",
+          "CTA pentru newsletter",
+          "Sfaturi de la experți"
+        ],
+        "secțiuni_lipsă": [
+          "Nu există ghid specific, structura este adecvată"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟢 NICE-TO-HAVE: Adaugă meta description",
+          "🟢 NICE-TO-HAVE: Adaugă sistem de afișare articole (când vor fi disponibile)"
+        ]
+      },
+      "site/ro/contact.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 90,
+        "prioritate": "🟡 IMPORTANT (Pagină Secundară)",
+        "secțiuni_prezente": [
+          "H1 clar",
+          "Informații contact complete",
+          "CTA pentru programare întâlnire",
+          "Link-uri utile",
+          "Social media"
+        ],
+        "secțiuni_lipsă": [
+          "Nu există ghid specific, structura este completă"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Adaugă meta description",
+          "🟡 IMPORTANT: Actualizează link-urile social media (menționate ca 'de actualizat')",
+          "🟢 NICE-TO-HAVE: Adaugă formular de contact integrat"
+        ]
+      }
+    },
+    "limba_engleza": {
+      "site/en/index.md": {
+        "status": "⚠️ PARȚIAL ALINIAT",
+        "nivel_aliniare": 60,
+        "prioritate": "🔴 CRITICĂ (Pagină Principală EN)",
+        "secțiuni_prezente": [
+          "H1 optimizat SEO (conform ghid)",
+          "Subtitlu descriptiv",
+          "Propunere de valoare (implicit în descriere)",
+          "Servicii oferite (cu link-uri)",
+          "Extended Business Services",
+          "Specialized Legal Services",
+          "Testimoniale (3, conforme)",
+          "Recomandări de la experți",
+          "Contact și certificări"
+        ],
+        "secțiuni_lipsă": [
+          "Hero vizual distinct cu 2 CTA-uri (View Services, Schedule Consultation)",
+          "Secțiune 'Your Strategic Partner' structurată în 4 coloane (cu International Business Support PE PRIMUL LOC)",
+          "Studii de caz (idealcases from international clients)",
+          "CTA final distinct",
+          "Footer structurat în 4 coloane"
+        ],
+        "probleme_seo": [
+          "Meta title și description prezente și conforme",
+          "Structura actuală nu urmează exact ghidul EN (care pune accent pe clienți internaționali)",
+          "Lipsă evidențiere 'International Business Support' ca prioritate"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Restructurează Hero cu 2 CTA-uri clare",
+          "🔴 URGENT: Creează secțiunea 'Your Strategic Partner' cu 4 coloane, PRIMA fiind 'International Business Support'",
+          "🟡 IMPORTANT: Adaugă placeholder pentru case studies de clienți internaționali",
+          "🟡 IMPORTANT: Structurează footer în 4 coloane",
+          "🟡 IMPORTANT: Evidențiază suport pentru afaceri internaționale mai clar"
+        ]
+      },
+      "site/en/about-us.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 35,
+        "prioritate": "🔴 CRITICĂ (Pagină Principală EN)",
+        "secțiuni_prezente": [
+          "H1 inspirațional (conform ghid)",
+          "Descriere generală",
+          "Valori menționate (Innovation, Confidentiality, Trust, Integrity)",
+          "Secțiune Horațiu Hagiu",
+          "Certificări"
+        ],
+        "secțiuni_lipsă": [
+          "Secțiunea 'Our Philosophy' structurată (Mission, Vision, Values cu iconițe)",
+          "Secțiunea 'Over 15 Years of Cumulative Experience' cu istoric",
+          "Secțiunea 'Meet Our Team Leaders' (carduri)",
+          "Secțiunea 'Our Impact in Numbers'",
+          "CTA final pentru cariere",
+          "Hero vizual"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description",
+          "Structură incompletă"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Restructurează complet după ghidul implementare-pagina-about-us-en.md",
+          "🔴 URGENT: Adaugă 'Our Philosophy' cu Mission, Vision, 4 Values",
+          "🔴 URGENT: Creează secțiunea 'Over 15 Years of Cumulative Experience'",
+          "🟡 IMPORTANT: Extinde bio Horațiu Hagiu (200-300 cuvinte)",
+          "🟡 IMPORTANT: Adaugă placeholder 'Our Impact in Numbers'",
+          "🟡 IMPORTANT: Adaugă CTA final"
+        ]
+      },
+      "site/en/services.md": {
+        "status": "⚠️ PARȚIAL ALINIAT",
+        "nivel_aliniare": 55,
+        "prioritate": "🔴 CRITICĂ (Pagină Hub EN)",
+        "secțiuni_prezente": [
+          "H1 conform ghidului",
+          "Descriere generală",
+          "Organizare în categorii",
+          "Link-uri către servicii"
+        ],
+        "secțiuni_lipsă": [
+          "Hero cu subtitlu inspirațional",
+          "Grilă de carduri cu pictograme",
+          "Descrieri conform ghidului",
+          "CTA final 'Not sure what you need?'"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Structură listă, nu carduri"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Restructurează în grilă de carduri",
+          "🟡 IMPORTANT: Adaugă pictograme",
+          "🟡 IMPORTANT: Actualizează descrieri conform ghid",
+          "🟡 IMPORTANT: Adaugă CTA final"
+        ]
+      },
+      "site/en/services/accounting-reporting.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal EN)",
+        "secțiuni_prezente": [
+          "H1 conform",
+          "Descriere generală",
+          "Listă servicii",
+          "Innovation section",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Hero cu CTA",
+          "'Why Choose Kontas?' structurat",
+          "'How We Work' proces",
+          "Technology section extinsă",
+          "Industries Served",
+          "CTA final"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Aplică template standard serviciu EN",
+          "🟡 IMPORTANT: Adaugă toate secțiunile lipsă"
+        ]
+      },
+      "site/en/services/tax-advisory.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 45,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal EN)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Listă servicii",
+          "Tax Camp mention",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat",
+          "De why sections",
+          "Proces lucru",
+          "CTA final"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Aplică template standard",
+          "🟡 IMPORTANT: Adaugă secțiuni lipsă"
+        ]
+      },
+      "site/en/services/payroll-human-resources.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟡 IMPORTANT (Serviciu Principal EN)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Servicii listate",
+          "Innovation",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Hero cu CTA",
+          "Why sections",
+          "Process",
+          "CTA final"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Aplică template standard EN"
+        ]
+      },
+      "site/en/services/business-advisory.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 45,
+        "prioritate": "🟡 IMPORTANT (Serviciu Secundar EN)",
+        "secțiuni_prezente": [
+          "H1 bun",
+          "Listă servicii extinsă",
+          "Secțiune despre înțelegere",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Hero structurat",
+          "Why sections",
+          "Process",
+          "CTA final"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Aplică template standard"
+        ]
+      },
+      "site/en/services/company-formation.md": {
+        "status": "❌ NU E ALINIAT",
+        "nivel_aliniare": 40,
+        "prioritate": "🟢 NICE-TO-HAVE (Serviciu Secundar EN)",
+        "secțiuni_prezente": [
+          "H1 descriptiv",
+          "Listă servicii",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Hero",
+          "Why sections",
+          "Process",
+          "CTA"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description",
+          "Typo în hreflang tag (linia 7: 'hreang' în loc de 'hreflang')"
+        ],
+        "recomandări": [
+          "🔴 URGENT: Corectează typo hreflang tag",
+          "🟢 NICE-TO-HAVE: Aplică template standard"
+        ]
+      },
+      "site/en/pricing.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 85,
+        "prioritate": "🟡 IMPORTANT (Pagină Secundară EN)",
+        "secțiuni_prezente": [
+          "H1 clar",
+          "Descriere tarife",
+          "CTA pentru quote",
+          "Disclaimer",
+          "Advantages"
+        ],
+        "secțiuni_lipsă": [
+          "Fără ghid specific"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟢 NICE-TO-HAVE: Adaugă meta description"
+        ]
+      },
+      "site/en/blog.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 80,
+        "prioritate": "🟢 NICE-TO-HAVE (Pagină Secundară EN)",
+        "secțiuni_prezente": [
+          "H1 clar",
+          "Descriere",
+          "Categorii",
+          "Newsletter CTA",
+          "Expert advice"
+        ],
+        "secțiuni_lipsă": [
+          "Fără ghid specific"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟢 NICE-TO-HAVE: Adaugă meta description"
+        ]
+      },
+      "site/en/contact.md": {
+        "status": "✅ COMPLET ALINIAT",
+        "nivel_aliniare": 85,
+        "prioritate": "🟡 IMPORTANT (Pagină Secundară EN)",
+        "secțiuni_prezente": [
+          "H1 clar",
+          "Contact info complet",
+          "CTA programare",
+          "Link-uri utile",
+          "Social media (cu link-uri Weex - de actualizat)"
+        ],
+        "secțiuni_lipsă": [
+          "Fără ghid specific"
+        ],
+        "probleme_seo": [
+          "Meta title prezent",
+          "Lipsă meta description"
+        ],
+        "recomandări": [
+          "🟡 IMPORTANT: Adaugă meta description",
+          "🟡 IMPORTANT: Actualizează link-uri social media (momentan Weex Global)",
+          "🟢 NICE-TO-HAVE: Adaugă formular contact"
+        ]
+      }
+    }
+  },
+  "summary": {
+    "statistici_generale": {
+      "total_pagini_analizate": 22,
+      "pagini_ro": 11,
+      "pagini_en": 11,
+      "pagini_complet_aliniate": 6,
+      "pagini_partial_aliniate": 4,
+      "pagini_nealiniate": 12
+    },
+    "distributie_pe_prioritati": {
+      "prioritate_critica": {
+        "count": 8,
+        "pagini": [
+          "ro/index.md",
+          "ro/despre-noi.md",
+          "ro/servicii.md",
+          "en/index.md",
+          "en/about-us.md",
+          "en/services.md"
+        ],
+        "status": "⚠️ 2 parțial aliniate, 4 nealiniate din 6 principale"
+      },
+      "prioritate_importanta": {
+        "count": 10,
+        "pagini": [
+          "ro/servicii/contabilitate-raportare.md",
+          "ro/servicii/consultanta-fiscala.md",
+          "ro/servicii/salarizare-resurse-umane.md",
+          "ro/servicii/consultanta-afaceri.md",
+          "ro/tarife.md",
+          "ro/contact.md",
+          "en/services/accounting-reporting.md",
+          "en/services/tax-advisory.md",
+          "en/services/payroll-human-resources.md",
+          "en/services/business-advisory.md",
+          "en/pricing.md",
+          "en/contact.md"
+        ],
+        "status": "✅ 4 aliniate, 6 nealiniate din 10"
+      },
+      "prioritate_nice_to_have": {
+        "count": 4,
+        "pagini": [
+          "ro/servicii/infiintare-firma.md",
+          "ro/blog.md",
+          "en/services/company-formation.md",
+          "en/blog.md"
+        ],
+        "status": "✅ 2 aliniate, 2 nealiniate din 4"
+      }
+    },
+    "probleme_comune_identificate": {
+      "seo": [
+        "Meta description lipsă pe majoritatea paginilor (18/22 pagini)",
+        "Structură H1/H2/H3 inconsistentă între pagini",
+        "Hreflang tags prezente, dar inactive (comentate)"
+      ],
+      "structura": [
+        "Lipsă Hero vizual distinct pe pagini principale",
+        "Lipsă secțiuni structurate cu pictograme/iconițe",
+        "Lipsă CTA-uri clare și distincte pe majoritatea paginilor",
+        "Lipsă grile de carduri pentru servicii (pe hub pages)",
+        "Lipsă footer structurat în 4 coloane"
+      ],
+      "continut": [
+        "Lipsă studii de caz (placeholder-e necesare)",
+        "Lipsă cifre concrete ('Kontas în Cifre')",
+        "Bio Horațiu Hagiu parțială (necesită extindere 200-300 cuvinte)",
+        "Lipsă mențiuni software specific (TaxDome etc.)",
+        "Lipsă industrii servite detaliate"
+      ],
+      "consistenta": [
+        "Template inconsistent între paginile de servicii",
+        "Structură diferită RO vs EN (ar trebui identică)",
+        "Lipsă proces de lucru standardizat pe paginile de servicii"
+      ]
+    },
+    "actiuni_prioritare": {
+      "urgent_critica": [
+        {
+          "prioritate": "🔴 URGENT #1",
+          "actiune": "Restructurează ro/index.md după ghidul implementare-pagina-acasa.md",
+          "impact": "Pagină principală RO - trafic maxim",
+          "taskuri": [
+            "Creează Hero distinct cu 2 CTA-uri",
+            "Adaugă secțiunea 'Partenerul Tău Strategic' (4 coloane)",
+            "Creează secțiunea 'Soluții Complete' cu carduri",
+            "Adaugă placeholder studii de caz",
+            "Structurează footer în 4 coloane"
+          ]
+        },
+        {
+          "prioritate": "🔴 URGENT #2",
+          "actiune": "Restructurează ro/despre-noi.md după ghidul implementare-pagina-despre-noi.md",
+          "impact": "Pagină principală RO - credibilitate brand",
+          "taskuri": [
+            "Adaugă 'Filosofia Noastră' (Misiune, Viziune, 4 Valori)",
+            "Creează secțiunea 'Peste 15 Ani Experiență'",
+            "Extinde bio Horațiu Hagiu (solicită de la echipă)",
+            "Adaugă placeholder 'Kontas în Cifre' (solicită date)",
+            "Adaugă CTA final cariere/contact"
+          ]
+        },
+        {
+          "prioritate": "🔴 URGENT #3",
+          "actiune": "Restructurează en/index.md după ghidul implementare-pagina-home-en.md",
+          "impact": "Pagină principală EN - clienți internaționali",
+          "taskuri": [
+            "Creează Hero cu 2 CTA-uri",
+            "Adaugă 'Your Strategic Partner' (4 coloane, PRIMA: International Business Support)",
+            "Creează secțiunea servicii cu carduri",
+            "Adaugă placeholder case studies internaționale",
+            "Structurează footer"
+          ]
+        },
+        {
+          "prioritate": "🔴 URGENT #4",
+          "actiune": "Restructurează en/about-us.md după ghidul implementare-pagina-about-us-en.md",
+          "impact": "Pagină principală EN - credibilitate internațională",
+          "taskuri": [
+            "Identic cu ro/despre-noi.md, versiunea EN"
+          ]
+        },
+        {
+          "prioritate": "🔴 URGENT #5",
+          "actiune": "Corectează typo hreflang în en/services/company-formation.md linia 7",
+          "impact": "Bug SEO - fix rapid",
+          "taskuri": [
+            "Schimbă 'hreang' în 'hreflang'"
+          ]
+        }
+      ],
+      "important": [
+        {
+          "prioritate": "🟡 IMPORTANT #1",
+          "actiune": "Restructurează hub pages ro/servicii.md și en/services.md",
+          "impact": "Hub principal către servicii",
+          "taskuri": [
+            "Transformă listă în grilă de carduri (2x desktop, 1x mobil)",
+            "Adaugă pictograme pentru fiecare categorie",
+            "Actualizează descrieri conform ghidurilor",
+            "Adaugă CTA final 'Nu ești sigur de ce ai nevoie?'"
+          ]
+        },
+        {
+          "prioritate": "🟡 IMPORTANT #2",
+          "actiune": "Creează template standard pentru pagini servicii și aplică pe toate",
+          "impact": "Consistență și profesionalism",
+          "taskuri": [
+            "Definește structură: Hero + Servicii + Beneficii + Proces + Tehnologie + Industrii + CTA",
+            "Aplică pe ro/servicii/contabilitate-raportare.md (ghid există)",
+            "Extinde la celelalte pagini de servicii",
+            "Replică în EN"
+          ]
+        },
+        {
+          "prioritate": "🟡 IMPORTANT #3",
+          "actiune": "Adaugă meta descriptions pe toate paginile (18 pagini)",
+          "impact": "SEO și CTR în Google",
+          "taskuri": [
+            "Generează meta descriptions optimizate 150-160 caractere",
+            "Include call-to-action și keywords",
+            "Testează în Google Search Console"
+          ]
+        },
+        {
+          "prioritate": "🟡 IMPORTANT #4",
+          "actiune": "Actualizează link-uri social media",
+          "impact": "Brandind și social proof",
+          "taskuri": [
+            "Obține link-uri oficiale Kontas Facebook/LinkedIn",
+            "Actualizează în ro/contact.md și en/contact.md",
+            "Verifică footer pentru consistență"
+          ]
+        }
+      ],
+      "nice_to_have": [
+        {
+          "prioritate": "🟢 NICE-TO-HAVE #1",
+          "actiune": "Solicită conținut lipsă de la echipa Kontas",
+          "impact": "Completare conținut real vs placeholder",
+          "taskuri": [
+            "Bio extinsă Horațiu Hagiu (200-300 cuvinte)",
+            "Cifre Kontas (ani experiență, experți, clienți activi, companii internaționale)",
+            "Studii de caz concrete (2-3 exemple)",
+            "Software utilizate specific (TaxDome, altele)",
+            "Industrii servite detaliate",
+            "Membri echipă suplimentari (dacă se dorește)",
+            "Testimoniale actualizate suplimentare"
+          ]
+        },
+        {
+          "prioritate": "🟢 NICE-TO-HAVE #2",
+          "actiune": "Adaugă elemente vizuale și iconițe",
+          "impact": "UX și engagement",
+          "taskuri": [
+            "Creează/alege pictograme pentru valori (Integritate, Excelență, Parteneriat, Inovație)",
+            "Creează/alege pictograme pentru categorii servicii",
+            "Adaugă imagini Hero pentru pagini principale",
+            "Optimizează pentru web (performanță)"
+          ]
+        },
+        {
+          "prioritate": "🟢 NICE-TO-HAVE #3",
+          "actiune": "Implementează formulare de contact integrate",
+          "impact": "Lead generation",
+          "taskuri": [
+            "Adaugă formular pe /contact/",
+            "Adaugă formular 'Cere Ofertă' pe paginile de servicii",
+            "Integrare cu CRM/Email"
+          ]
+        }
+      ]
+    },
+    "metrici_recomandare_implementare": {
+      "faza_1_urgent": {
+        "durata_estimata": "2-3 săptămâni",
+        "pagini_afectate": 6,
+        "impact": "Maxim - pagini principale",
+        "resurse": "Developer + Content Writer",
+        "rezultat_asteptat": "Pagini principale 100% aliniate cu ghidurile"
+      },
+      "faza_2_important": {
+        "durata_estimata": "3-4 săptămâni",
+        "pagini_afectate": 10,
+        "impact": "Mare - hub și servicii",
+        "resurse": "Developer + Content Writer + Designer (iconițe)",
+        "rezultat_asteptat": "Consistență completă pe toate paginile de servicii"
+      },
+      "faza_3_nice_to_have": {
+        "durata_estimata": "2-3 săptămâni",
+        "pagini_afectate": "Toate",
+        "impact": "Mediu - finisare și polish",
+        "resurse": "Content Writer + Designer + Developer (formulare)",
+        "rezultat_asteptat": "Site complet aliniat cu toate best practices"
+      }
+    }
+  },
+  "concluzii": {
+    "status_general": "⚠️ SITE PARȚIAL ALINIAT - Necesită restructurare urgentă pe pagini principale",
+    "nivel_aliniare_mediu": 54.5,
+    "puncte_forte": [
+      "Meta titles prezente și optimizate SEO pe toate paginile",
+      "Hreflang tags prezente (comentate, dar pregătite pentru activare)",
+      "Conținut existent de calitate (testimoniale, expertiză)",
+      "Structură de URL și organizare fișiere corectă",
+      "Link-uri interne funcționale între pagini",
+      "Paginile secundare (Tarife, Blog, Contact) sunt bine aliniate"
+    ],
+    "puncte_slabe": [
+      "Lipsă meta descriptions (SEO critic)",
+      "Structură inconsistentă între pagini (fără template standard)",
+      "Lipsă Hero vizual distinct pe pagini principale",
+      "Lipsă CTA-uri clare și structurate",
+      "Lipsă secțiuni cu pictograme/iconițe (propunere valoare, beneficii)",
+      "Paginile de servicii nu urmează ghidurile de implementare",
+      "Lipsă studii de caz și cifre concrete (placeholder-e necesare)",
+      "Footer nestructurat"
+    ],
+    "risc_actual": "🟡 MEDIU - Site-ul funcționează, dar nu valorifică complet potențialul de conversie și nu respectă strategia SEO planificată",
+    "oportunitate": "🚀 MARE - Implementarea ghidurilor va crește semnificativ conversiile și ranking-ul SEO",
+    "recomandare_finala": "Prioritizează restructurarea paginilor principale (Home, About, Services Hub) pentru impact maxim rapid, apoi standardizează template-ul pentru servicii. Faza 3 (conținut suplimentar) poate fi implementată gradual."
+  },
+  "checklist_validare_finala": {
+    "dupa_implementare_faza_1": [
+      "✓ Toate paginile principale au Hero distinct cu CTA-uri",
+      "✓ Secțiuni cu pictograme implementate pe Home și About",
+      "✓ Footer structurat în 4 coloane pe toate paginile",
+      "✓ Placeholder-e pentru studii de caz și cifre adăugate",
+      "✓ Meta descriptions adăugate pe pagini principale"
+    ],
+    "dupa_implementare_faza_2": [
+      "✓ Template standard servicii creat și aplicat",
+      "✓ Toate paginile de servicii au structura completă",
+      "✓ Hub pages (ro/servicii, en/services) sunt carduri vizuale",
+      "✓ Meta descriptions pe toate paginile",
+      "✓ Link-uri social media actualizate"
+    ],
+    "dupa_implementare_faza_3": [
+      "✓ Conținut real înlocuiește toate placeholder-ele",
+      "✓ Iconițe și elemente vizuale implementate",
+      "✓ Formulare de contact integrate",
+      "✓ Testing SEO complet (Search Console, Lighthouse)",
+      "✓ Testing UX pe mobile și desktop"
+    ]
+  }
+}

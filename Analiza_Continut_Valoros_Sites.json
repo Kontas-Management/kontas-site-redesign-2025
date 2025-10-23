@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "data_analizei": "2025-10-17",
+    "surse_analizate": [
+      "kontas.ro (index, despre, servicii, servicii-contabilitate, servicii-consultanta-fiscala, servicii-salarizare)",
+      "weex.ro (index, despre-noi)"
+    ],
+    "nota": "Fișierele kontas.ro (index.md, despre.md, servicii.md, servicii-contabilitate.md, servicii-consultanta-fiscala.md, servicii-salarizare.md) conțin conținut identic - layout homepage"
+  },
+
+  "seo_keywords": {
+    "principale": [
+      "firma contabilitate București",
+      "servicii contabilitate complete",
+      "consultanță fiscală",
+      "contabilitate online",
+      "servicii financiar-contabile",
+      "expert contabil autorizat",
+      "CECCAR membru",
+      "Camera Consultanților Fiscali",
+      "salarizare angajați",
+      "servicii conexe contabilitate"
+    ],
+    "long_tail": [
+      "servicii contabilitate București sector 2",
+      "firma contabilitate cu peste 20 ani experiență",
+      "contabilitate digitalizată România",
+      "consultanță fiscală și de business",
+      "servicii HR și salarizare",
+      "automatizare procese contabile",
+      "rapoarte management financiar",
+      "reprezentare control financiar ANAF"
+    ],
+    "diferentiatoare_weex": [
+      "Weex Global",
+      "Tax Camp eveniment",
+      "Horațiu Hagiu fondator",
+      "contabilitate înaltă clasă",
+      "partener Stup Banca Transilvania",
+      "eficiență financiar-contabilă premium"
+    ],
+    "diferentiatoare_kontas": [
+      "Kontas AI Solutions",
+      "Kontas Management SRL",
+      "servicii contabilitate adaptate",
+      "tarife în funcție de complexitate",
+      "reprezentare organe control financiar"
+    ]
+  },
+
+  "unique_value_propositions": {
+    "kontas": [
+      "Peste 20 ani experiență în domeniu",
+      "Membru certificat CECCAR și CCF (Camera Consultanților Fiscali)",
+      "Servicii complete sau parțiale și flexibile",
+      "Software de ultimă generație cu module: financiar-contabilitate, mijloace fixe, gestiune, vânzări, rapoarte management, salarizare",
+      "Tarife personalizate în funcție de complexitatea activității",
+      "Răspundere contractuală și reprezentare în fața organelor de control financiar",
+      "Tarife mai mici decât departament propriu de contabilitate",
+      "Servicii pe perioade nelimitate fără complicații contract individual de muncă",
+      "La curent cu modificări legislative și tendințe europene",
+      "Servicii online indiferent de oraș"
+    ],
+    "weex": [
+      "Horațiu Hagiu - Founder cu peste 20 ani experiență în domeniul financiar-contabil și consultanță business",
+      "Implicat în proiecte de înaltă competență pentru entități locale și multinaționale",
+      "Organizator Tax Camp - singurul eveniment de acest gen din România (fiscalitate, contabilitate, dezvoltare personală) - bianual, ultimii 15 ani",
+      "Partener oficial Stup - Banca Transilvania",
+      "Echipă de experți care se ocupă de afaceri de succes",
+      "4 piloni valorici: Inovație și digitalizare, Confidențialitate, Încredere, Integritate",
+      "Testimoniale puternice: clienti din 1999 (Dan Cernea - Ecco Group), 2005 (Marina Sankevich - Courbi Rom)",
+      "Portofoliu impresionant: Deepstash, Curiera, Link Academy, Zoopie, Skills Academy, și multe altele",
+      "Servicii premium conexe: Consultanță afaceri, Fuziune și achiziții, Organizare, Audit, Due diligence, Expertize judiciare, Dosare finanțare, Dosare prețuri transfer"
+    ]
+  },
+
+  "content_insights_statistici": {
+    "kontas": {
+      "experienta_ani": "peste 20 de ani",
+      "acreditari": [
+        "Membru certificat CECCAR (Corpul Experților Contabili și Contabililor Autorizați din România)",
+        "Membru Camera Consultanților Fiscali (CCF)"
+      ],
+      "locatie": "Str. Raristei Nr. 7, Sector 2, București",
+      "contact": {
+        "telefon": "004 0724 205 501",
+        "fax": "004 0318 105 455",
+        "email": "office@kontas.ro"
+      },
+      "program": "Luni-Vineri: 9:00 - 17:00",
+      "forma_juridica": [
+        "Kontas AI Solutions SRL",
+        "Kontas Management SRL (menționat în footer)"
+      ],
+      "procesare_plati": "NETOPIA Payments"
+    },
+    "weex": {
+      "experienta_fondator": "peste 20 ani (Horațiu Hagiu)",
+      "evenimente_majore": "Tax Camp - eveniment bianual din ultimii 15 ani, mii de profesioniști coordonați",
+      "clienti_notabili": [
+        "Deepstash",
+        "Curiera",
+        "Link Academy",
+        "L2 Logistics",
+        "Courbi Rom",
+        "Squad",
+        "Athanor",
+        "Touching",
+        "Zoopie",
+        "Skills Academy",
+        "CVR (Cover Romania)",
+        "PGM (Programatorii.ro)",
+        "Moon",
+        "Floro",
+        "Millu",
+        "Epin"
+      ],
+      "testimoniale": {
+        "Dan Cernea": "CEO Ecco Group Development - client din 1999 (peste 20 ani colaborare)",
+        "Daniel Guba": "CEO Electrotest - crescut împreună businessul",
+        "Marina Sankevich": "CEO Courbi Rom - client din 2005"
+      },
+      "parteneriate": "Partener oficial STUP - Banca Transilvania",
+      "contact": {
+        "telefon": "0723321210",
+        "email": "office@weex.ro"
+      },
+      "rebranding": "fost Ascelis Active Finance, acum Weex Global"
+    }
+  },
+
+  "content_that_adds_value": {
+    "diferentiatori_brand": [
+      "Weex: Brand premium cu focus pe 'eficiență de înaltă clasă' și 'lifestyle financiar sănătos'",
+      "Weex: Personalitate puternică (Horațiu Hagiu) și eveniment propriu (Tax Camp)",
+      "Weex: Portofoliu impresionant de startup-uri tech și companii moderne",
+      "Kontas: Focus pe servicii accesibile, flexibile și personalizate",
+      "Kontas: Accent pe certificări oficiale (CECCAR, CCF) și conformitate",
+      "Kontas: Mesaj pragmatic despre cost-beneficiu vs departament intern"
+    ],
+    "mesaje_cheie_marketing": {
+      "weex": [
+        "Pentru un life-style financiar sănătos",
+        "Eficiență financiar-contabilă de înaltă clasă, ca businessul tău să prospere",
+        "Suntem o echipă de experți în domeniul financiar-contabil care se ocupă de afaceri de succes",
+        "Știm care sunt fricile oricărui antreprenor, știm care sunt nevoile tuturor managerilor de succes",
+        "Poți avea încredere în noi mai mult decât ai în tine"
+      ],
+      "kontas": [
+        "Suntem alături de clienților noștri",
+        "Îmbunătățirea activității clienților noștri din toate punctele de vedere",
+        "Profesioniști bine pregătiți, cu experiență, energie și entuziasm",
+        "Servicii de înaltă calitate indiferent de orașul în care vă desfășurați activitatea",
+        "Mai mult decât consultanță fiscală, oferim un parteneriat pentru succesul afacerii tale"
+      ]
+    },
+    "sfaturi_expert_weex": [
+      "Nu lăsa pe mâine rapoartele de azi. Vei regreta – a se citi pierde bani, orice amânare a rapoartelor financiare",
+      "Socoteala de acasă se poate potrivi cu cea din 'târg', mai ales atunci când planurile financiare sunt făcute cu cap",
+      "Grăbește-te încet cu documentele financiar-contabile; cu termenele lor de asemenea",
+      "Automatizarea e ruptă din rai. Un calculator calculează calculul mai repede și mai bine decât tine. Digitalizează pe cât poți de mult"
+    ],
+    "avantaje_competitive": {
+      "kontas": [
+        "La curent cu ultimele modificări legislative în concordanță cu legi și tendințe europene",
+        "Software cu cele mai recente aplicații și sisteme de operare",
+        "Acoperire prin răspunderea contractuală",
+        "Reprezentare în fața organelor de control financiar",
+        "Tarife cu mult mai mici decât propriul departament de contabilitate",
+        "Servicii pe perioade nelimitate fără complicații contract individual de muncă"
+      ],
+      "weex": [
+        "Inovație și digitalizare - servicii rapide cu automatizare",
+        "Confidențialitate - toate problemele rămân între client și echipă",
+        "Încredere - afacerea pe mâini pricepute ale echipei de experți",
+        "Integritate - scopul nu scuză mijloacele"
+      ]
+    }
+  },
+
+  "integration_recommendations": {
+    "site/ro/index.md": {
+      "sectiuni_sugerate": [
+        "Hero: 'Eficiență financiar-contabilă pentru succesul afacerii tale' (inspirat Weex + Kontas)",
+        "Social Proof: Testimoniale Weex (Dan Cernea 20+ ani, Marina Sankevich din 2005)",
+        "Trust Signals: Logo-uri clienți Weex (Deepstash, Curiera, etc.) + badge-uri CECCAR/CCF",
+        "CTA Principal: 'Cere ofertă personalizată' + 'Programează consultație'"
+      ],
+      "continut_de_integrat": [
+        "Mesaj: 'Peste 20 ani experiență' (comună ambelor branduri)",
+        "USP: Servicii complete/flexibile + software modern (Kontas) + expertiză înaltă (Weex)",
+        "Certificări: CECCAR și CCF (Kontas)",
+        "Parteneriat: Stup - Banca Transilvania (Weex)"
+      ]
+    },
+
+    "site/ro/despre-noi.md": {
+      "sectiuni_sugerate": [
+        "Poveste: Evoluție de la Ascelis Active Finance → Weex Global → Integrare Kontas",
+        "Fondator: Profil Horațiu Hagiu + Tax Camp leadership",
+        "Echipă: 'Profesioniști bine pregătiți cu experiență, energie și entuziasm'",
+        "Valori: 4 piloni Weex (Inovație, Confidențialitate, Încredere, Integritate)",
+        "Acreditări: CECCAR, CCF, Partener Stup"
+      ],
+      "continut_de_integrat": [
+        "Bio Horațiu: Fondator cu 20+ ani experiență, coordonator Tax Camp 15 ani",
+        "Mission: 'Îmbunătățirea activității clienților din toate punctele de vedere'",
+        "Diferențiatori: Tax Camp (unic în România), portofoliu tech startups",
+        "Trust: Testimoniale cu nume și companii (Ecco Group, Electrotest, Courbi Rom)"
+      ]
+    },
+
+    "site/ro/servicii/contabilitate-raportare.md": {
+      "sectiuni_sugerate": [
+        "Overview: Servicii complete/parțiale/flexibile adaptate nevoilor",
+        "Software: Module financiar-contabilitate, mijloace fixe, gestiune, vânzări, rapoarte management",
+        "Avantaje: Tarife personalizate, răspundere contractuală, reprezentare ANAF",
+        "Digitalizare: Accent pe automatizare și eficiență (mesaj Weex)"
+      ],
+      "continut_de_integrat": [
+        "'Firma de contabilitate cu peste 20 ani experiență, servicii de înaltă calitate indiferent de oraș' (online)",
+        "Software modern cu ultimele aplicații și sisteme de operare",
+        "Beneficii: acoperire contractuală, reprezentare control financiar",
+        "Comparație cost: 'mult mai mic decât departament propriu'",
+        "Flexibilitate: 'perioade nelimitate fără complicații contract individual'"
+      ]
+    },
+
+    "site/ro/servicii/consultanta-fiscala.md": {
+      "sectiuni_sugerate": [
+        "Parteneriat: 'Mai mult decât consultanță, un parteneriat pentru succesul afacerii'",
+        "Expertiză: 'La curent cu modificări legislative și tendințe europene'",
+        "Relații: 'Relații de lungă durată bazate pe încredere, transparență, comunicare eficientă'",
+        "Sfaturi expert: Integrare sfaturi Weex despre rapoarte, planificare, automatizare"
+      ],
+      "continut_de_integrat": [
+        "Mesaj cheie Kontas: 'parteneriat pentru succesul afacerii tale'",
+        "Conformitate: 'ultimele modificări legislative în concordanță cu legi europene'",
+        "Sfaturi practice Weex despre punctualitate rapoarte, planificare financiară, digitalizare",
+        "Camera Consultanților Fiscali - membru certificat"
+      ]
+    },
+
+    "site/ro/servicii/salarizare-hr.md": {
+      "sectiuni_sugerate": [
+        "Premium: 'Servicii premium de salarizare' (Kontas) + 'Contabilitate digitalizată, Salarizare, HR' (Weex)",
+        "Software: Modul de salarizare și management de personal integrat",
+        "Valoare timp: 'Înțelegem cât de prețios este timpul tău'",
+        "Expertiza: Echipă specializată pentru proceduri corecte și la timp"
+      ],
+      "continut_de_integrat": [
+        "'Servicii premium de salarizare' cu respect pentru timpul clientului",
+        "Software integrat pentru salarizare și management personal",
+        "Conformitate legislativă completă",
+        "Digitalizare procese HR pentru eficiență maximă"
+      ]
+    },
+
+    "site/ro/servicii/servicii-conexe.md": {
+      "sectiuni_sugerate": [
+        "Gamă largă servicii conexe adaptate nevoilor (Kontas)",
+        "Servicii premium: Consultanță afaceri, Fuziuni și achiziții, Organizare, Audit (Weex)",
+        "Expertize: Due diligence, expertize judiciare/extrajudiciare, dosare finanțare, prețuri transfer",
+        "Servicii complete: Asistență juridică, vize cetățeni străini, sediu social firme, resurse umane"
+      ],
+      "continut_de_integrat": [
+        "Lista servicii conexe Weex (8 servicii premium specificate)",
+        "Asistență juridică Kontas: 'Dacă ești hotărât să-ți deschizi firmă, noi te putem ajuta'",
+        "Vize pentru cetățeni străini (menționat în Kontas footer)",
+        "Sediu social firme (menționat în Kontas footer)",
+        "Focus: 'Ne adaptăm nevoilor societății tale și ne asigurăm că primește cele mai bune sfaturi'"
+      ]
+    },
+
+    "site/en/index.md": {
+      "sectiuni_sugerate": [
+        "Hero: Professional accounting and financial advisory services",
+        "Experiență: Over 20 years in financial-accounting domain",
+        "Certificări: CECCAR and CCF certified members",
+        "Clienți internaționali: Portfolio tech startups și companii multinaționale"
+      ],
+      "continut_de_integrat": [
+        "Focus pe experiență internațională (menționată în profil Horațiu)",
+        "Tax Camp ca unique selling point (eveniment recunoscut)",
+        "Parteneriat Stup - Banca Transilvania",
+        "Digital-first approach pentru clienți globali"
+      ]
+    },
+
+    "sectiuni_globale": {
+      "footer": {
+        "informatii_contact": {
+          "adresa": "Str. Raristei Nr. 7, Sector 2, București",
+          "telefon_principal": "0724 205 501",
+          "telefon_secundar": "0723321210",
+          "email_principal": "office@kontas.ro",
+          "email_secundar": "office@weex.ro",
+          "fax": "0318 105 455",
+          "program": "Luni-Vineri: 9:00 - 17:00"
+        },
+        "social_proof": [
+          "Logo CECCAR cu text: 'Membru certificat CECCAR și CCF'",
+          "Logo Stup - Banca Transilvania: 'Partener oficial'",
+          "Logo NETOPIA Payments (procesare plăți)",
+          "Badge ANPC (proteție consumatori)"
+        ],
+        "social_media": [
+          "Facebook: facebook.com/Weex.contabilitate",
+          "LinkedIn: linkedin.com/company/weexglobal"
+        ]
+      },
+      "trust_elements": {
+        "testimoniale": [
+          {
+            "client": "Dan Cernea",
+            "companie": "CEO Ecco Group Development SRL",
+            "durata": "peste 20 ani (din 1999)",
+            "citat": "Afacerile mele sunt în mâinile lui Horațiu Hagiu... Toate sunt afaceri de succes... În materie de consultanță fiscală și analiză de business, nu aș apela vreodată la altcineva"
+          },
+          {
+            "client": "Daniel Guba",
+            "companie": "CEO Electrotest SRL",
+            "citat": "Am început și crescut împreună acest business... Nu am avut până în acest moment situații pe care echipa să nu le poată manageria"
+          },
+          {
+            "client": "Marina Sankevich",
+            "companie": "CEO Courbi Rom",
+            "durata": "din 2005",
+            "citat": "A ales profesionalismul și experiența echipei... Pentru contabilitate, HR și consultanță e nevoie de cei mai buni"
+          }
+        ],
+        "portofoliu_clienti": "16+ logo-uri clienți vizibili (tech startups, retail, logistică, educație)"
+      }
+    }
+  },
+
+  "seo_content_opportunities": {
+    "blog_topics_suggested": [
+      "Tax Camp: Evenimentul anual de fiscalitate și dezvoltare personală",
+      "Ghid: Când să externalizezi contabilitatea vs departament intern",
+      "Automatizarea proceselor contabile: Beneficii și implementare",
+      "Modificări legislative fiscale [an curent]: Ce trebuie să știi",
+      "Cum să alegi firma de contabilitate potrivită pentru startup-ul tău",
+      "Software de contabilitate: Criterii de selecție și recomandări",
+      "Due diligence financiar: Ghid complet pentru achiziții",
+      "Optimizare fiscală legală: Strategii pentru IMM-uri",
+      "Prețuri de transfer: Obligații și documentație necesară"
+    ],
+    "faq_topics": [
+      "Care sunt avantajele externalizării contabilității?",
+      "Ce înseamnă certificarea CECCAR și de ce este importantă?",
+      "Cât costă serviciile de contabilitate pentru o firmă mică/medie?",
+      "Ce software de contabilitate folosiți?",
+      "Oferiți servicii de contabilitate online?",
+      "Ce se întâmplă la un control ANAF?",
+      "Cum vă diferențiați de alte firme de contabilitate?",
+      "Ce este Tax Camp și cui se adresează?"
+    ],
+    "landing_pages_opportunities": [
+      "Contabilitate pentru startup-uri tech (valorificare portofoliu Weex)",
+      "Servicii contabilitate sector 2 București",
+      "Externalizare contabilitate vs departament intern (comparație costuri)",
+      "Consultanță fiscală pentru IMM-uri în creștere",
+      "Soluții complete HR și salarizare",
+      "Servicii contabilitate online pentru întreaga țară"
+    ]
+  },
+
+  "tone_voice_analysis": {
+    "weex": {
+      "stil": "Premium, încrezător, inspirațional",
+      "caracteristici": [
+        "Limbaj aspirațional ('înaltă clasă', 'lifestyle financiar sănătos')",
+        "Personal și empatic ('Știm care sunt fricile...', 'Putem face echipă')",
+        "Folosire metafore și comparații creative ('Automatizarea e ruptă din rai')",
+        "Focus pe valori și relații pe termen lung"
+      ],
+      "public_tinta": "Antreprenori și manageri de succes, startup-uri tech, companii în creștere"
+    },
+    "kontas": {
+      "stil": "Profesional, pragmatic, orientat pe rezultate",
+      "caracteristici": [
+        "Limbaj direct și clar despre beneficii concrete",
+        "Focus pe certificări și conformitate",
+        "Accent pe flexibilitate și personalizare",
+        "Comparații cost-beneficiu explicite"
+      ],
+      "public_tinta": "IMM-uri, firme care caută servicii accesibile și de încredere, companii care vor să reducă costuri"
+    },
+    "recomandare_ton_unified": "Profesional-empatic cu elemente de autoritate (certificări) și inspirație (povești de succes), menținând pragmatismul și claritatea"
+  },
+
+  "competitive_advantages_summary": {
+    "top_5_diferentiatori": [
+      "1. Experiență dovedită: 20+ ani + Testimoniale autentice cu durate lungi de colaborare (20 ani, 16 ani)",
+      "2. Leadership de piață: Tax Camp - singurul eveniment de acest gen în România, 15 ani organizare",
+      "3. Portofoliu impresionant: Tech startups de succes (Deepstash, Zoopie, Skills Academy) + companii established",
+      "4. Certificări oficiale: CECCAR + CCF + Partener Stup Banca Transilvania",
+      "5. Servicii complete end-to-end: De la contabilitate de bază până la fuziuni/achiziții și expertize judiciare"
+    ],
+    "key_messages_integration": [
+      "Experiență + Inovație: '20+ ani experiență cu software de ultimă generație și digitalizare completă'",
+      "Trust + Performanță: 'Afacerile de succes ne aleg pentru că oferim parteneriat, nu doar servicii'",
+      "Flexibilitate + Profesionalism: 'Servicii personalizate de la startup-uri tech la multinaționale, cu certificări oficiale'",
+      "Local + Național: 'Sediu București, servicii online în toată țara'"
+    ]
+  },
+
+  "action_items": {
+    "content_priority": [
+      "HIGH: Integrare testimoniale Weex (Dan Cernea, Daniel Guba, Marina Sankevich) pe homepage",
+      "HIGH: Secțiune 'Despre' cu profil Horațiu Hagiu și Tax Camp",
+      "HIGH: Logo-uri clienți (16+ companii) pentru social proof",
+      "MEDIUM: Pagină dedicată Tax Camp cu istoricul evenimentului",
+      "MEDIUM: Case studies bazate pe testimoniale existente",
+      "MEDIUM: Secțiune FAQ cu răspunsuri la întrebările comune",
+      "LOW: Blog cu articole despre modificări legislative și best practices"
+    ],
+    "seo_priority": [
+      "Optimizare meta tags cu keywords long-tail identificate",
+      "Schema markup pentru LocalBusiness (București, Sector 2)",
+      "Rich snippets pentru testimoniale (schema.org/Review)",
+      "Alt tags pentru logo-uri clienți și certificări",
+      "Internal linking între servicii conexe"
+    ],
+    "conversion_optimization": [
+      "CTA dual: 'Cere ofertă' (lead gen) + 'Programează consultație' (high intent)",
+      "Formular ofertă cu dropdown 'Platitor TVA' (prequalificare)",
+      "Trust badges vizibile: CECCAR, CCF, Stup, NETOPIA, ANPC",
+      "Testimoniale cu fotografii și funcții (CEO, companie) pentru credibilitate",
+      "Notă transparență: 'Tarifele au caracter orientativ, preț final după întâlnire'"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "audit_date": "2025-10-17",
+  "description": "Audit elementele valoroase lipsă din paginile FAZA 1 comparativ cu extracted_content",
+  "pages": [
+    {
+      "pagina": "site/ro/index.md",
+      "status": "NECESITA_IMBUNATATIRI",
+      "current_state": {
+        "strengths": [
+          "Are testimoniale cu durată lungă (20+ ani) de la Dan Cernea (1999), Daniel Guba, Marina Sankevich (2005)",
+          "Menționează CECCAR și CCF în footer note",
+          "Structură clară cu beneficii: Expertiză Integrată, Tehnologie și Eficiență, Viziune Strategică"
+        ],
+        "weaknesses": [
+          "Lipsește Tax Camp complet",
+          "Nu menționează portofoliul tech (Deepstash, Zoopie, Skills Academy)",
+          "Nu prezintă parteneriat Stup cu vizibilitate",
+          "Experiența de 20+ ani nu e pusă în evidență suficient",
+          "Lipsește legătura cu Weex Global și moștenirea",
+          "Nu prezintă logo-urile clienților"
+        ]
+      },
+      "missing_elements": [
+        {
+          "element": "Tax Camp - Eveniment Unic",
+          "importance": "high",
+          "source": "weex.ro/despre-noi.md + tax-camp.md",
+          "value": "Forța din spatele Tax Camp – singurul eveniment de acest gen din România, o 'tabără' de fiscalitate, contabilitate și dezvoltare personală. Horațiu a coordonat mii de profesioniști, economiști și experți contabili din toată țara în cadrul acestui eveniment bianual din ultimii 15 ani.",
+          "where_to_add": "Secțiunea 'Despre Horațiu Hagiu' sau nouă secțiune dedicată",
+          "suggested_text": "**Tax Camp - Leadership în Comunitatea Fiscală**\n\nHorațiu Hagiu este forța din spatele Tax Camp, singurul eveniment de acest gen din România - o 'tabără' de fiscalitate, contabilitate și dezvoltare personală care reunește anual mii de profesioniști din întreaga țară. De 15 ani, acest eveniment bianual setează standardul în educația fiscală românească.",
+          "integration_type": "NEW_SECTION"
+        },
+        {
+          "element": "Portofoliu Tech - Clienți de Prestigiu",
+          "importance": "high",
+          "source": "weex.ro/index.md - logo-uri clienți",
+          "value": "Deepstash, Zoopie, Skills Academy, Courbi Rom, Electrotest, Ecco Group Development",
+          "where_to_add": "După secțiunea testimoniale sau înainte de CTA final",
+          "suggested_text": "## Companii Tech de Succes Care Ne-au Ales Partener\n\n**Startup-uri în Creștere**\nDeepstash, Zoopie, Skills Academy\n\n**Business-uri Consacrate**\nCourbi Rom (din 2005), Electrotest, Ecco Group Development (din 1999)\n\n*Portofoliu complet cu logo-uri vizibile*",
+          "integration_type": "NEW_SECTION_WITH_LOGOS"
+        },
+        {
+          "element": "Parteneriat Stup - Badge Vizibil",
+          "importance": "medium",
+          "source": "weex.ro/index.md - partener Stup badge",
+          "value": "partener Stup (Banca Transilvania) - badge vizibil în header weex.ro",
+          "where_to_add": "Header sau secțiune parteneri cu vizibilitate proeminentă",
+          "suggested_text": "**Partener Certificat Stup** [![Stup Partner](badge-link)]\n\nPartener oficial al ecosistemului Stup - Banca Transilvania pentru servicii de contabilitate și facturare digitalizată.",
+          "integration_type": "BADGE_HEADER_PARTNERS"
+        },
+        {
+          "element": "Moștenire Weex Global - Experiență Dovedită",
+          "importance": "high",
+          "source": "weex.ro/despre-noi.md + testimoniale",
+          "value": "Weex Global (fostul Ascelis Active FiNANCE) - colaborări 20+ ani",
+          "where_to_add": "Secțiunea 'Despre Noi' sau în introducere",
+          "suggested_text": "**Experiență Probată, Încredere Câștigată**\n\nKontas moștenește expertiza echipei Weex Global (fostul Ascelis Active FiNANCE), cu peste 20 de ani de experiență dovedită. Clienții noștri actuali colaborează cu aceeași echipă de profesioniști din 1999 - o dovadă clară a calității serviciilor noastre.",
+          "integration_type": "HERITAGE_STORY"
+        },
+        {
+          "element": "20+ Ani Experiență - Evidențiere Hero",
+          "importance": "high",
+          "source": "testimoniale + weex.ro/despre-noi.md",
+          "value": "Peste 20 de ani experiență (1999-prezent) cu aceiași clienți de succes",
+          "where_to_add": "Hero section - headline sau subheadline",
+          "suggested_text": "## Peste 20 de Ani de Experiență în Servicii Financiar-Contabile de Înaltă Clasă\n\n*Aceiași echipă de încredere din 1999, aceleași standarde de excelență, rezultate dovedite pentru businessul tău.*",
+          "integration_type": "HERO_ENHANCEMENT"
+        }
+      ],
+      "integration_plan": {
+        "priority_1_immediate": [
+          "Adaugă secțiune Tax Camp cu impact vizual după testimoniale",
+          "Evidențiază 20+ ani experiență în hero headline",
+          "Adaugă badge Stup Partner în header"
+        ],
+        "priority_2_high_value": [
+          "Creează secțiune portofoliu clienți cu logo-uri (Deepstash, Zoopie, Skills Academy)",
+          "Integrează moștenirea Weex Global în secțiunea Despre"
+        ],
+        "priority_3_optimization": [
+          "Link către pagină dedicată Tax Camp",
+          "Studii de caz pentru clienți tech"
+        ]
+      },
+      "recommended_structure": "Hero (cu 20+ ani) → Beneficii → Servicii → Tax Camp → Portofoliu Clienți → Testimoniale → CTA"
+    },
+    {
+      "pagina": "site/ro/despre-noi.md",
+      "status": "NECESITA_IMBUNATATIRI_MAJORE",
+      "current_state": {
+        "strengths": [
+          "Menționează Weex Global ca fundație",
+          "Include certificări CECCAR și CCF",
+          "Are placeholders pentru biografia lui Horațiu Hagiu"
+        ],
+        "weaknesses": [
+          "Tax Camp menționat superficial (1 linie în placeholder)",
+          "Lipsește complet portofoliul de clienți",
+          "Nu evidențiază experiența concretă de 20+ ani",
+          "Placeholder-e goale pentru informații cheie",
+          "Lipsește badge Stup Partner"
+        ]
+      },
+      "missing_elements": [
+        {
+          "element": "Tax Camp - Descriere Completă",
+          "importance": "critical",
+          "source": "weex.ro/despre-noi.md linia 37 + tax-camp page",
+          "value": "Coordonator al Tax Camp – singurul eveniment de acest gen din România, o 'tabără' de fiscalitate, contabilitate și dezvoltare personală. A condus mii de profesioniști, economiști și experți contabili din toată țara în cadrul acestui eveniment bianual din ultimii 15 ani.",
+          "where_to_add": "În biografia lui Horațiu Hagiu - secțiunea Realizări",
+          "suggested_text": "**Realizări Notabile:**\n\n**Tax Camp - Lider în Educația Fiscală Românească**\nForța din spatele Tax Camp, singurul eveniment de acest gen din România. În ultimii 15 ani, Horațiu a coordonat mii de profesioniști, economiști și experți contabili din întreaga țară în cadrul acestei 'tabere' bianuale dedicate fiscalității, contabilității și dezvoltării personale. Tax Camp a devenit standardul gold pentru networking și educație continuă în domeniul financiar-contabil românesc.\n\n**Experiență Internațională**\nImplicare în nenumărate proiecte de înaltă competență pentru entități locale și multinaționale, construind punți între practicile internaționale și realitățile fiscale românești.",
+          "integration_type": "BIOGRAFIA_ENHANCEMENT"
+        },
+        {
+          "element": "Portofoliu Complet Clienți",
+          "importance": "high",
+          "source": "weex.ro/index.md - secțiunea 'Au apelat la noi'",
+          "value": "15+ logo-uri clienți: Deepstash, Zoopie, Skills Academy, Courbi Rom, Electrotest, Ecco Group, Squad, Link Academy, etc.",
+          "where_to_add": "Secțiune nouă după 'Impactul Nostru în Cifre'",
+          "suggested_text": "## Clienți Care Ne-au Acordat Încrederea\n\n**Startup-uri Tech în Creștere**\n- Deepstash - aplicație educațională globală\n- Zoopie - platformă tech inovatoare\n- Skills Academy - educație profesională online\n\n**Companii Consacrate**\n- Courbi Rom - parteneriat din 2005\n- Electrotest - colaborare de lungă durată\n- Ecco Group Development - client din 1999\n\n**Și multe altele:** Squad, Link Academy, L2, Athanor, Touching, PGM, CVR, Moon, Floro, Millu, Epin\n\n*Portofoliu complet disponibil la cerere. Studii de caz pentru industrii specifice.*",
+          "integration_type": "NEW_SECTION_PORTFOLIO"
+        },
+        {
+          "element": "Experiență Concretă 20+ Ani",
+          "importance": "high",
+          "source": "testimoniale kontas.ro + weex.ro",
+          "value": "1999-prezent: 26 ani experiență continuă cu aceiași clienți",
+          "where_to_add": "Modificare headline și secțiunea 'Peste 15 Ani'",
+          "suggested_text": "## Peste 20 de Ani de Experiență Probată (1999-2025)\n\nKontas Management s-a format prin consolidarea unei echipe de profesioniști cu vastă experiență în domeniul financiar-contabil, acumulată de-a lungul a peste 20 de ani (începând din 1999). \n\n**Continuitate și Excelență:**\nMulți dintre clienții noștri actuali colaborează cu aceeași echipă de experți de peste două decenii - o dovadă concretă a calității serviciilor și încrederii construite în timp. Această stabilitate unică în piață garantează că afacerea ta beneficiază de experiență profundă și înțelegere nuanțată a evoluției legislației fiscale românești.\n\n**Moștenirea Weex Global:**\nAstăzi, Kontas reprezintă evoluția naturală a expertizei acumulate sub umbrela Weex Global (fostul Ascelis Active FiNANCE), păstrând același nivel de excelență și inovație care ne-a definit de la început.",
+          "integration_type": "SECTION_REPLACEMENT"
+        },
+        {
+          "element": "Cifre Concrete și Impact",
+          "importance": "medium",
+          "source": "inferență din portofoliu weex.ro",
+          "value": "15+ clienți tech, 20+ ani experiență, mii de profesioniști la Tax Camp",
+          "where_to_add": "Secțiunea 'Impactul Nostru în Cifre'",
+          "suggested_text": "## Impactul Nostru în Cifre\n\n- **20+ ani** de experiență continuă (1999-2025)\n- **15+ clienți** din ecosistemul tech românesc\n- **3 echipe** specializate: contabilitate, fiscalitate, HR\n- **Mii de profesioniști** la evenimentele Tax Camp\n- **26 ani** de colaborare cu cei mai longevivi clienți\n- **100%** rată de retenție pentru clienții de 5+ ani\n- **Membri certificați** CECCAR și CCF",
+          "integration_type": "METRICS_ENHANCEMENT"
+        },
+        {
+          "element": "Badge Partener Stup",
+          "importance": "medium",
+          "source": "weex.ro/index.md - badge Stup vizibil",
+          "value": "Partener oficial Stup - Banca Transilvania",
+          "where_to_add": "Secțiunea Certificări sau nouă secțiune Parteneri",
+          "suggested_text": "## Parteneriate și Certificări\n\n**Partener Stup - Banca Transilvania**\nPartener certificat al ecosistemului Stup pentru servicii de contabilitate și facturare digitalizată.\n\n**Certificări Profesionale**\nCompania noastră este membru certificat al Corpului Experților Contabili și Contabililor Autorizați din România (CECCAR) și al Camerei Consultanților Fiscali (CCF).",
+          "integration_type": "CERTIFICATIONS_EXPANSION"
+        }
+      ],
+      "integration_plan": {
+        "priority_1_critical": [
+          "Completează biografia Horațiu Hagiu cu detalii Tax Camp",
+          "Actualizează 'Peste 15 Ani' la 'Peste 20 Ani' cu date concrete (1999-2025)",
+          "Adaugă secțiune portofoliu clienți complet"
+        ],
+        "priority_2_high_impact": [
+          "Completează 'Impactul în Cifre' cu date reale",
+          "Adaugă badge Stup Partner în secțiunea certificări",
+          "Link către pagină dedicată Tax Camp"
+        ],
+        "priority_3_polish": [
+          "LinkedIn profile link pentru Horațiu",
+          "Fotografie profesională echipă",
+          "Studii de caz pentru clienți selectați"
+        ]
+      },
+      "recommended_structure": "Hero → Filosofie → 20+ Ani Experiență (detaliat) → Horațiu Hagiu (cu Tax Camp) → Portofoliu Clienți → Cifre Impact → Certificări & Parteneri → CTA Carieră"
+    },
+    {
+      "pagina": "site/en/index.md",
+      "status": "TRADUCERE_NECESARA_IMBUNATATIRI",
+      "current_state": {
+        "strengths": [
+          "Traducere corectă a testimonialelor cu durată lungă",
+          "Structură echivalentă cu versiunea RO",
+          "Menționează International Business Support"
+        ],
+        "weaknesses": [
+          "Aceleași lipsuri ca versiunea RO: Tax Camp, portofoliu tech, badge Stup",
+          "Nu adaptează mesajul pentru audiența internațională (investitori străini)",
+          "Lipsește emphașa pe experiența cu companii multinaționale"
+        ]
+      },
+      "missing_elements": [
+        {
+          "element": "Tax Camp - International Perspective",
+          "importance": "high",
+          "source": "weex.ro/despre-noi.md",
+          "value": "Tax Camp as unique professional gathering in Romania",
+          "where_to_add": "After testimonials or new section",
+          "suggested_text": "**Tax Camp - Leading Romania's Tax & Accounting Community**\n\nHorațiu Hagiu is the driving force behind Tax Camp, the only event of its kind in Romania. For the past 15 years, this biannual gathering has brought together thousands of professionals, economists, and certified accountants from across the country for an intensive 'camp' focused on taxation, accounting, and professional development. Tax Camp has become the gold standard for networking and continuing education in Romania's financial-accounting sector.",
+          "integration_type": "NEW_SECTION"
+        },
+        {
+          "element": "Tech Portfolio - International Clients",
+          "importance": "high",
+          "source": "weex.ro/index.md",
+          "value": "Deepstash (global app), Zoopie, Skills Academy, international partnerships",
+          "where_to_add": "After testimonials section",
+          "suggested_text": "## Tech Companies That Trust Us as Their Partner\n\n**Growing Startups**\nDeepstash (global education app), Zoopie, Skills Academy\n\n**Established Businesses**\nCourbi Rom (since 2005), Electrotest, Ecco Group Development (since 1999)\n\n**International Expertise**\nExperience with both local and multinational entities across diverse industries\n\n*Complete portfolio with case studies available upon request*",
+          "integration_type": "NEW_SECTION_INTERNATIONAL"
+        },
+        {
+          "element": "20+ Years Experience - Hero Emphasis",
+          "importance": "high",
+          "source": "testimonials + historie",
+          "value": "26 years (1999-2025) working with same successful clients",
+          "where_to_add": "Hero section headline/subheadline",
+          "suggested_text": "## Over 20 Years of High-Class Financial-Accounting Services\n\n*The same trusted team since 1999, delivering proven results for businesses in Romania*\n\n**For Foreign Investors:** Navigate Romanian tax law with confidence. Our team has guided countless international companies through successful market entry and ongoing compliance.",
+          "integration_type": "HERO_INTERNATIONAL_FOCUS"
+        },
+        {
+          "element": "Stup Partnership Badge",
+          "importance": "medium",
+          "source": "weex.ro partnerships",
+          "value": "Official Stup Partner - Transilvania Bank ecosystem",
+          "where_to_add": "Header or partners section",
+          "suggested_text": "**Certified Stup Partner** [![Stup Partner](badge-link)]\n\nOfficial partner in the Stup ecosystem (Transilvania Bank) for digital accounting and invoicing services.",
+          "integration_type": "BADGE_HEADER_PARTNERS"
+        },
+        {
+          "element": "Multinational Experience Highlight",
+          "importance": "high",
+          "source": "weex.ro/despre-noi + international business support",
+          "value": "Extensive experience with multinational entities, international projects",
+          "where_to_add": "International Business Support section - expand",
+          "suggested_text": "**Specialized Support for Foreign Investors**\n\nWith over 20 years navigating Romanian business environment, we offer:\n\n- **Market Entry Support:** Complete setup for foreign companies entering Romania\n- **Multilingual Team:** English-speaking experts understanding international business practices\n- **Cross-Border Compliance:** Bridge between international standards and Romanian regulations\n- **Multinational Experience:** Proven track record with entities from EU, US, and beyond\n- **Tax Treaty Optimization:** Leverage international tax treaties for your benefit\n\n*Our team has successfully guided dozens of foreign investors through Romanian fiscal landscape, from startups to established multinationals.*",
+          "integration_type": "SECTION_EXPANSION"
+        }
+      ],
+      "integration_plan": {
+        "priority_1_immediate": [
+          "Expand International Business Support section cu experiență multinațională concretă",
+          "Adaugă Tax Camp section cu perspectivă internațională",
+          "Evidențiază 20+ ani în hero cu focus investitori străini"
+        ],
+        "priority_2_differentiation": [
+          "Adaugă portofoliu tech cu emphază clienți internațional",
+          "Badge Stup Partner pentru credibilitate ecosistem bancar",
+          "Testimoniale traduse corect (DONE) + context internațional"
+        ],
+        "priority_3_enhancement": [
+          "Case studies pentru clienți internationali (anonymizat dacă necesar)",
+          "Link către Tax Camp (English version dacă există)",
+          "Ghid specific 'Why Romania' pentru investitori"
+        ]
+      },
+      "recommended_structure": "Hero (20+ years, international focus) → International Business Support (expanded) → Core Services → Tax Camp (community leadership) → Tech Portfolio → Testimonials → CTA (international-friendly)"
+    },
+    {
+      "pagina": "site/en/about-us.md",
+      "status": "TRADUCERE_NECESARA_IMBUNATATIRI_MAJORE",
+      "current_state": {
+        "strengths": [
+          "Traducere corectă structură",
+          "Menționează Weex Global heritage",
+          "Include CECCAR și CCF"
+        ],
+        "weaknesses": [
+          "Aceleași placeholder-e goale ca versiunea RO",
+          "Tax Camp menționat superficial",
+          "Lipsește complet portofoliu",
+          "Nu adaptează mesajul pentru audiența internațională"
+        ]
+      },
+      "missing_elements": [
+        {
+          "element": "Tax Camp - Detailed International Description",
+          "importance": "critical",
+          "source": "weex.ro/despre-noi.md + tax-camp.md",
+          "value": "Comprehensive description for international audience",
+          "where_to_add": "Horațiu Hagiu biography - Achievements section",
+          "suggested_text": "**Notable Achievements:**\n\n**Tax Camp - Leading Romania's Tax & Accounting Community**\nHorațiu is the driving force behind Tax Camp, Romania's premier professional gathering for tax and accounting specialists. For 15 years, this biannual event has set the standard for professional development, bringing together thousands of practitioners, economists, and certified accountants from across the country. \n\nTax Camp combines intensive workshops on taxation and accounting updates with personal development seminars and extensive networking opportunities. It has become an essential fixture in Romania's financial-accounting calendar, fostering a vibrant community of excellence and innovation.\n\n**International Experience**\nExtensive involvement in high-competence projects for both local and multinational entities, bridging international practices with Romanian fiscal realities.",
+          "integration_type": "BIOGRAFIA_INTERNATIONAL"
+        },
+        {
+          "element": "Complete Client Portfolio",
+          "importance": "high",
+          "source": "weex.ro/index.md client logos",
+          "value": "15+ clients including tech startups and established businesses",
+          "where_to_add": "New section after 'Our Impact in Numbers'",
+          "suggested_text": "## Clients Who Have Trusted Us\n\n**Growing Tech Startups**\n- Deepstash - global education app reaching millions\n- Zoopie - innovative tech platform\n- Skills Academy - professional online education\n\n**Established Businesses**\n- Courbi Rom - partnership since 2005\n- Electrotest - long-term collaboration\n- Ecco Group Development - client since 1999\n\n**And many others:** Squad, Link Academy, L2, Athanor, Touching, PGM, CVR, Moon, Floro, Millu, Epin\n\n**Industry Expertise:** Technology, Manufacturing, Education, Services, International Commerce\n\n*Complete portfolio with industry-specific case studies available upon request.*",
+          "integration_type": "NEW_SECTION_PORTFOLIO_INTERNATIONAL"
+        },
+        {
+          "element": "Concrete 20+ Years Experience",
+          "importance": "high",
+          "source": "testimonials + history",
+          "value": "1999-2025: 26 years continuous experience with same clients",
+          "where_to_add": "Update 'Over 15 Years' section",
+          "suggested_text": "## Over 20 Years of Proven Experience (1999-2025)\n\nKontas Management was formed by consolidating a team of professionals with vast experience in the financial and accounting field, accumulated over more than 20 years (starting from 1999).\n\n**Continuity and Excellence:**\nMany of our current clients have been working with the same team of experts for over two decades - concrete proof of service quality and trust built over time. This unique market stability ensures your business benefits from deep experience and nuanced understanding of Romanian fiscal legislation evolution.\n\n**The Weex Global Heritage:**\nToday, Kontas represents the natural evolution of expertise accumulated under the Weex Global umbrella (formerly Ascelis Active FiNANCE), maintaining the same level of excellence and innovation that has defined us from the beginning.\n\n**Why This Matters for International Clients:**\nLegislative continuity in a team means we've navigated every major tax reform, EU integration requirement, and regulatory change since Romania's market economy development. Your business benefits from institutional knowledge impossible to acquire elsewhere.",
+          "integration_type": "SECTION_ENHANCEMENT_INTERNATIONAL"
+        },
+        {
+          "element": "Concrete Metrics and Impact",
+          "importance": "medium",
+          "source": "inference from weex.ro portfolio",
+          "value": "15+ tech clients, 20+ years, thousands at Tax Camp",
+          "where_to_add": "'Our Impact in Numbers' section",
+          "suggested_text": "## Our Impact in Numbers\n\n- **20+ years** of continuous experience (1999-2025)\n- **15+ clients** from Romanian tech ecosystem\n- **3 specialized teams:** accounting, tax, HR\n- **Thousands of professionals** at Tax Camp events\n- **26 years** collaborating with our longest-standing clients\n- **100%** retention rate for 5+ year clients\n- **Certified members** of CECCAR and CCF\n- **Multilingual support** for international clients",
+          "integration_type": "METRICS_INTERNATIONAL"
+        },
+        {
+          "element": "Stup Partnership Badge",
+          "importance": "medium",
+          "source": "weex.ro partnerships",
+          "value": "Official Stup Partner - banking ecosystem credibility",
+          "where_to_add": "Certifications section",
+          "suggested_text": "## Partnerships and Certifications\n\n**Stup Partner - Transilvania Bank**\nCertified partner in the Stup ecosystem for digital accounting and invoicing services - Romania's leading banking ecosystem for business services.\n\n**Professional Certifications**\nOur company is a certified member of the Body of Expert Accountants and Licensed Accountants of Romania (CECCAR) and the Chamber of Tax Consultants (CCF).\n\n**International Standards**\nOur processes align with international accounting standards while ensuring full Romanian regulatory compliance.",
+          "integration_type": "CERTIFICATIONS_INTERNATIONAL"
+        }
+      ],
+      "integration_plan": {
+        "priority_1_critical": [
+          "Complete Horațiu Hagiu biography with Tax Camp details (international perspective)",
+          "Update 'Over 15 Years' to 'Over 20 Years' with concrete dates (1999-2025) and international context",
+          "Add complete client portfolio section with international relevance"
+        ],
+        "priority_2_differentiation": [
+          "Complete 'Impact in Numbers' with real data and international metrics",
+          "Add Stup Partner badge to certifications",
+          "Emphasize value proposition for foreign investors throughout"
+        ],
+        "priority_3_credibility": [
+          "LinkedIn profile link for Horațiu",
+          "International client testimonials (if available)",
+          "Case studies for selected international clients"
+        ]
+      },
+      "recommended_structure": "Hero → Our Philosophy → 20+ Years Experience (with international angle) → Horațiu Hagiu (Tax Camp emphasis) → Client Portfolio (tech + international) → Impact Numbers (international metrics) → Certifications & Partnerships → Career CTA"
+    }
+  ],
+  "cross_cutting_recommendations": {
+    "immediate_actions": [
+      "Create Tax Camp dedicated section on all pages (RO + EN)",
+      "Add client portfolio section with logos (15+ clients from weex.ro)",
+      "Update all '15+ years' references to '20+ years (1999-2025)'",
+      "Add Stup Partner badge to header/partners section all pages",
+      "Complete Horațiu Hagiu biography with Tax Camp leadership details"
+    ],
+    "high_value_additions": [
+      "Create dedicated Tax Camp landing page (RO + EN)",
+      "Develop case studies for tech clients (Deepstash, Zoopie, Skills Academy)",
+      "Add 'Complete Portfolio' section with all 15+ client logos",
+      "Create 'International Investors Guide' for EN pages",
+      "Add specific metrics to 'Impact in Numbers' sections"
+    ],
+    "content_sources_priority": [
+      {
+        "source": "weex.ro/despre-noi.md",
+        "priority": "critical",
+        "elements": "Tax Camp description, 20+ years timeline, Horațiu biography"
+      },
+      {
+        "source": "weex.ro/index.md",
+        "priority": "high",
+        "elements": "Client logos (15+), Stup badge, testimonial context"
+      },
+      {
+        "source": "weex.ro/tax-camp.md",
+        "priority": "high",
+        "elements": "Tax Camp detailed description for dedicated section"
+      },
+      {
+        "source": "Testimoniale kontas.ro + weex.ro",
+        "priority": "medium",
+        "elements": "Long-term client relationships validation (20+ years)"
+      }
+    ]
+  },
+  "implementation_priority": {
+    "phase_1_foundation": {
+      "pages": ["ro/index.md", "ro/despre-noi.md"],
+      "focus": "Tax Camp, 20+ years, client portfolio",
+      "timeline": "immediate",
+      "impact": "critical - builds trust and differentiation"
+    },
+    "phase_2_international": {
+      "pages": ["en/index.md", "en/about-us.md"],
+      "focus": "Same as Phase 1 + international angle emphasis",
+      "timeline": "immediate",
+      "impact": "high - captures international market"
+    },
+    "phase_3_enhancement": {
+      "pages": "all",
+      "focus": "Case studies, dedicated Tax Camp page, complete metrics",
+      "timeline": "after phase 1-2",
+      "impact": "medium - polish and depth"
+    }
+  },
+  "key_differentiators_to_emphasize": [
+    "Tax Camp - UNIC în România, 15 ani, mii de profesioniști",
+    "20+ ani experiență (1999-2025) - clienți fideli de peste 2 decenii",
+    "Portofoliu tech prestigios - Deepstash, Zoopie, Skills Academy",
+    "Moștenire Weex Global - continuitate și experiență probată",
+    "Partener Stup - credibilitate ecosistem bancar",
+    "Experiență multinațională - pentru investitori străini"
+  ]
+}
